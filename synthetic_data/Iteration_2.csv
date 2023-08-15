@@ -1,0 +1,901 @@
+text,label,adverse
+Patient reports being evicted from their previous residence due to inability to pay rent on time.,HOUSING,adverse
+"Housing instability is causing significant stress for the patient, who has been unable to secure a lease agreement due to lack of credit history.",HOUSING,adverse
+The patient's recent job loss has made it difficult for them to keep up with rent payments and they are concerned about becoming homeless.,HOUSING,adverse
+Currently couch surfing among friends and family members' homes temporarily while searching for affordable housing options.,HOUSING,adverse
+Homeless patient presenting with skin infections related poor hygiene practices associated w/lack of access clean water facilities & bathing areas,HOUSING,adverse
+"The patient is experiencing difficulty finding safe, stable housing in an area that meets their needs and budget constraints",HOUSING,adverse
+Patient expresses concerns over living conditions at current apartment complex including safety issues such as break-ins or violence within the community,HOUSING,adverse
+Patient reports feeling unsafe in current neighborhood which may be impacting overall health outcomes,HOUSING,adverse
+Pt describes overcrowding situation where multiple families share one unit leading increased risk exposure infectious diseases like COVID-19,HOUSING,adverse
+Currently staying at homeless shelter but struggling find permanent solution given limited resources available through social services programs,HOUSING,adverse
+Housing insecurity contributing factors mental health challenges such as anxiety depression,HOUSING,adverse
+Homelessness making it challenging maintain regular medical appointments necessary manage chronic illnesses,HOUSING,adverse
+Limited financial resources preventing pt from accessing adequate healthcare food security transportation other basic necessities required maintain good quality life,HOUSING,adverse
+Difficulty maintaining medication regimen without consistent access reliable storage space refrigeration,HOUSING,adverse
+Fear eviction if landlord discovers undocumented status despite paying rent on-time consistently,HOUSING,adverse
+Unable afford utilities resulting intermittent electricity gas service disruptions negatively affecting daily functioning,HOUSING,adverse
+Crowded living spaces exacerbating respiratory allergies asthma symptoms,HOUSING,adverse
+Inadequate heating/cooling systems compromising comfort levels during extreme weather events,HOUSING,adverse
+Experiencing discrimination based race ethnicity religion sexual orientation gender identity when attempting secure rental properties,HOUSING,adverse
+Struggling navigate complicated legal processes associated with housing discrimination or eviction proceedings,HOUSING,adverse
+Pt reports being forced leave previous residence due to landlord selling property without adequate notice,HOUSING,adverse
+Patient experiencing homelessness as result domestic violence situation unable secure safe affordable housing on own,HOUSING,adverse
+Currently living in substandard conditions including mold infestation pest control issues lack running water/working plumbing,HOUSING,adverse
+Limited access transportation making it difficult attend medical appointments work/school necessary maintain stable income and health outcomes,HOUSING,adverse
+Difficulty finding landlords willing accept Section 8 vouchers limiting options available for low-income renters,HOUSING,adverse
+Fear retaliation from landlord if report unsafe living conditions such lead paint asbestos exposure,HOUSING,adverse
+Unable afford rent increase resulting displacement from current residence,HOUSING,adverse
+Experiencing difficulty navigating complex application process required qualify subsidized housing programs,HOUSING,adverse
+Homelessness contributing factors substance use disorder mental illness history incarceration poverty unemployment etc.,HOUSING,adverse
+Inability find pet-friendly rental properties preventing patient securing suitable long-term solution given importance companion animal emotional support well-being,HOUSING,adverse
+Struggling pay mortgage payments leading foreclosure risk loss equity built over time,HOUSING,adverse
+Crowded living spaces compromising privacy dignity personal safety concerns,HOUSING,adverse
+Housing insecurity exacerbating food insecurity challenges limited storage space cooking facilities,HOUSING,adverse
+Difficulty accessing reliable internet service negatively impacting ability complete online job applications school assignments telehealth visits stay connected loved ones during pandemic restrictions,HOUSING,adverse
+Experiencing harassment intimidation neighbors community members based race ethnicity religion sexual orientation gender identity disability status etc.,HOUSING,adverse
+Lack of affordable childcare services making it challenging balance work responsibilities parenting duties,HOUSING,adverse
+Facing eviction after falling behind on rent payments following unexpected medical expenses,HOUSING,adverse
+Chronic pain condition exacerbated by inadequate sleeping arrangements uncomfortable bedding surfaces,HOUSING,adverse
+Undergoing cancer treatment requiring consistent access clean environment free potential infectious agents,HOUSING,adverse
+Social isolation loneliness stemming inability host friends/family members due cramped quarters unsuitable entertaining spaces,HOUSING,adverse
+"Displaced natural disaster (e.g., hurricane, wildfire) struggling rebuild life new location",HOUSING,adverse
+"Deteriorating housing conditions negatively impacting mental health well-being (e.g., anxiety, depression)",HOUSING,adverse
+Difficulty securing stable employment due unstable living situation preventing consistent work attendance or reliable transportation,HOUSING,adverse
+Fear eviction if request necessary repairs from landlord such as fixing leaky roof or faulty electrical wiring,HOUSING,adverse
+Limited access affordable healthy food options contributing factors chronic diseases like diabetes hypertension obesity etc.,HOUSING,adverse
+Inability afford rent deposit required secure new residence leading homelessness risk,HOUSING,adverse
+Experiencing difficulty finding accessible housing accommodations meet mobility needs related disability status,HOUSING,adverse
+Homelessness resulting loss job income inability maintain regular medical appointments manage chronic illnesses effectively,HOUSING,adverse
+Struggling navigate complicated legal processes associated with divorce child custody proceedings while also maintaining stable housing arrangements,HOUSING,adverse
+Crowded living spaces exacerbating interpersonal conflicts among family members roommates neighbors,HOUSING,adverse
+Housing insecurity making it challenging focus schoolwork academic pursuits given constant stress uncertainty about future stability,HOUSING,adverse
+Unable find suitable long-term solution accommodate growing family size leading overcrowding unsafe sleeping arrangements,HOUSING,adverse
+Pt reports being forced leave previous residence due to gentrification process displacing low-income residents in favor wealthier newcomers,HOUSING,adverse
+Currently staying at homeless shelter but struggling find permanent solution given limited resources available through social services programs,HOUSING,adverse
+Housing instability causing significant financial strain on patient's budget limiting ability cover other basic necessities like healthcare expenses,HOUSING,adverse
+Patient expresses concerns over safety issues within current apartment complex including break-ins violence community,HOUSING,adverse
+Difficulty accessing adequate laundry facilities compromising hygiene practices overall cleanliness habits,HOUSING,adverse
+Fear retaliation from landlord if report maintenance issues such pest control plumbing problems,HOUSING,adverse
+"Living near environmental hazards (e.g., industrial pollution, toxic waste sites) increasing risk exposure harmful substances detrimental health outcomes",HOUSING,adverse
+Chronic respiratory condition exacerbated by poor air quality indoor/outdoor pollutants,HOUSING,adverse
+Experiencing discrimination based race ethnicity religion sexual orientation gender identity when attempting secure rental properties,HOUSING,adverse
+Struggling navigate complicated legal processes associated with housing discrimination or eviction proceedings,HOUSING,adverse
+Pt reports being forced leave previous residence due to landlord selling property without adequate notice,HOUSING,adverse
+Patient experiencing homelessness as result domestic violence situation unable secure safe affordable housing on own,HOUSING,adverse
+Currently living in substandard conditions including mold infestation pest control issues lack running water/working plumbing,HOUSING,adverse
+Limited access transportation making it difficult attend medical appointments work/school necessary maintain stable income and health outcomes,HOUSING,adverse
+Difficulty finding landlords willing accept Section 8 vouchers limiting options available for low-income renters,HOUSING,adverse
+Fear retaliation from landlord if report unsafe living conditions such lead paint asbestos exposure,HOUSING,adverse
+Unable afford rent increase resulting displacement from current residence,HOUSING,adverse
+Experiencing difficulty navigating complex application process required qualify subsidized housing programs,HOUSING,adverse
+Homelessness contributing factors substance use disorder mental illness history incarceration poverty unemployment etc.,HOUSING,adverse
+Inability find pet-friendly rental properties preventing patient securing suitable long-term solution given importance companion animal emotional support well-being,HOUSING,adverse
+Struggling pay mortgage payments leading foreclosure risk loss equity built over time,HOUSING,adverse
+Crowded living spaces compromising privacy dignity personal safety concerns,HOUSING,adverse
+Housing insecurity exacerbating food insecurity challenges limited storage space cooking facilities,HOUSING,adverse
+Difficulty accessing reliable internet service negatively impacting ability complete online job applications school assignments telehealth visits stay connected loved ones during pandemic restrictions,HOUSING,adverse
+Experiencing harassment intimidation neighbors community members based race ethnicity religion sexual orientation gender identity disability status etc.,HOUSING,adverse
+Lack of affordable childcare services making it challenging balance work responsibilities parenting duties,HOUSING,adverse
+Facing eviction after falling behind on rent payments following unexpected medical expenses,HOUSING,adverse
+Chronic pain condition exacerbated by inadequate sleeping arrangements uncomfortable bedding surfaces,HOUSING,adverse
+Undergoing cancer treatment requiring consistent access clean environment free potential infectious agents,HOUSING,adverse
+Social isolation loneliness stemming inability host friends/family members due cramped quarters unsuitable entertaining spaces,HOUSING,adverse
+"Displaced natural disaster (e.g., hurricane, wildfire) struggling rebuild life new location",HOUSING,adverse
+"Deteriorating housing conditions negatively impacting mental health well-being (e.g., anxiety, depression)",HOUSING,adverse
+Difficulty securing stable employment due unstable living situation preventing consistent work attendance or reliable transportation,HOUSING,adverse
+Fear eviction if request necessary repairs from landlord such as fixing leaky roof or faulty electrical wiring,HOUSING,adverse
+Limited access affordable healthy food options contributing factors chronic diseases like diabetes hypertension obesity etc.,HOUSING,adverse
+Inability afford rent deposit required secure new residence leading homelessness risk,HOUSING,adverse
+Experiencing difficulty finding accessible housing accommodations meet mobility needs related disability status,HOUSING,adverse
+Homelessness resulting loss job income inability maintain regular medical appointments manage chronic illnesses effectively,HOUSING,adverse
+Struggling navigate complicated legal processes associated with divorce child custody proceedings while also maintaining stable housing arrangements,HOUSING,adverse
+Crowded living spaces exacerbating interpersonal conflicts among family members roommates neighbors,HOUSING,adverse
+Housing insecurity making it challenging focus schoolwork academic pursuits given constant stress uncertainty about future stability,HOUSING,adverse
+Unable find suitable long-term solution accommodate growing family size leading overcrowding unsafe sleeping arrangements,HOUSING,adverse
+Pt reports being forced leave previous residence due to gentrification process displacing low-income residents in favor wealthier newcomers,HOUSING,adverse
+Currently staying at homeless shelter but struggling find permanent solution given limited resources available through social services programs,HOUSING,adverse
+Housing instability causing significant financial strain on patient's budget limiting ability cover other basic necessities like healthcare expenses,HOUSING,adverse
+Patient expresses concerns over safety issues within current apartment complex including break-ins violence community,HOUSING,adverse
+Difficulty accessing adequate laundry facilities compromising hygiene practices overall cleanliness habits,HOUSING,adverse
+Fear retaliation from landlord if report maintenance issues such pest control plumbing problems,HOUSING,adverse
+Patient reports difficulty attending appointments due to unreliable bus schedules in their area.,TRANSPORTATION,adverse
+Inability to afford gas and transport costs associated with regular medical visits resulting in sporadic attendance at appointments.,TRANSPORTATION,adverse
+Long commute times causing stress for the patient who must travel two hours each way for treatment.,TRANSPORTATION,adverse
+The patient is unable to drive themselves due to a physical disability and has no family or friends available for assistance with transportation.,TRANSPORTATION,adverse
+Difficulty finding reliable ride-sharing services in the area leading to missed appointments and delays in care management,TRANSPORTATION,adverse
+Living far away from healthcare facilities making it difficult for patients without access vehicles or public transit options,TRANSPORTATION,adverse
+"The cost of parking near healthcare facilities being too high, preventing some patients from accessing necessary care",TRANSPORTATION,adverse
+Patients reporting that they cannot take time off work during normal business hours which limits their ability attend scheduled medical appointments,TRANSPORTATION,adverse
+Difficulty navigating complex public transit systems leading many patients feeling overwhelmed when trying get around town,TRANSPORTATION,adverse
+Limited mobility caused by age-related conditions such as arthritis can make using public transport challenging if not impossible,TRANSPORTATION,adverse
+Some rural areas lack adequate infrastructure like sidewalks making walking unsafe especially during inclement weather,TRANSPORTATION,adverse
+A shortage of accessible taxis makes getting around more difficult than it should be,TRANSPORTATION,adverse
+Transportation challenges often lead low-income families struggling even harder just meet basic needs let alone pay health related expenses,TRANSPORTATION,adverse
+Many people living on fixed incomes have limited resources available after paying bills so taking cabs regularly isn't feasible,TRANSPORTATION,adverse
+Certain medications may cause drowsiness or other side effects that impair driving abilities leaving few alternatives besides relying on others,TRANSPORTATION,adverse
+Frequent hospitalizations require ongoing follow-up visits but distance between home & facility creates logistical problems,TRANSPORTATION,adverse
+Inadequate signage at hospitals/clinics can create confusion among visitors unfamiliar with layout creating additional anxiety,TRANSPORTATION,adverse
+"Scheduling conflicts arise when multiple appointments are needed in a single day, but transportation options only allow for one trip",TRANSPORTATION,adverse
+Some patients may have to travel long distances just get access specialized care not available locally,TRANSPORTATION,adverse
+Patients with mobility issues require additional time and assistance when boarding public transport or getting into taxis,TRANSPORTATION,adverse
+Patients who rely on wheelchairs often face difficulties finding accessible vehicles that can accommodate their needs.,TRANSPORTATION,adverse
+Some patients live in areas where there is limited or no public transit making it difficult to attend medical appointments,TRANSPORTATION,adverse
+Patients living in remote locations may need special arrangements made such as helicopter transport if they become seriously ill,TRANSPORTATION,adverse
+Transportation challenges can lead some people feeling isolated from the community & disconnected from important support networks,TRANSPORTATION,adverse
+Limited availability of parking spaces near healthcare facilities creates problems for those driving themselves,TRANSPORTATION,adverse
+Many seniors report difficulty walking long distances which makes using public transit challenging,TRANSPORTATION,adverse
+The cost of gas has risen significantly over recent years creating financial barriers preventing many low-income families accessing necessary health services,TRANSPORTATION,adverse
+People living alone without family nearby find it hard arranging rides especially during emergencies,TRANSPORTATION,adverse
+Families caring disabled children must navigate complex systems like Medicaid while also ensuring their child gets proper care management,TRANSPORTATION,adverse
+Transit schedules don't always align with clinic hours leading missed appointment opportunities,TRANSPORTATION,adverse
+Scheduling conflicts arise when multiple specialists involved resulting increased stress levels among caregivers trying coordinate logistics,TRANSPORTATION,adverse
+Long wait times at bus stops leave elderly individuals exposed harsh weather conditions increasing risk illness,TRANSPORTATION,adverse
+Certain medications make operating motor vehicles unsafe leaving few alternatives besides relying on others,TRANSPORTATION,adverse
+Inadequate lighting along walkways increases risks falls injuries particularly older adults,TRANSPORTATION,adverse
+Having reliable transportation essential managing chronic illnesses requiring frequent follow-up visits,TRANSPORTATION,adverse
+A shortage affordable housing close hospitals/clinics means longer commutes more expensive taxi fares,TRANSPORTATION,adverse
+Difficulty navigating unfamiliar neighborhoods leads anxiety frustration among visitors new city,TRANSPORTATION,adverse
+"Medical equipment required by certain disabilities (e.g., oxygen tanks) can be bulky and difficult to transport",TRANSPORTATION,adverse
+Patients with mental health conditions may struggle using public transit due anxiety or other symptoms,TRANSPORTATION,adverse
+Transportation challenges often lead patients feeling overwhelmed stressed which negatively impacts overall well-being,TRANSPORTATION,adverse
+Inability afford transportation costs associated with medical appointments creates financial strain on families,TRANSPORTATION,adverse
+Some areas lack sidewalks making walking unsafe especially during inclement weather,TRANSPORTATION,adverse
+A shortage of accessible taxis makes getting around more challenging than it should be for those mobility issues,TRANSPORTATION,adverse
+Limited availability parking spaces near healthcare facilities creates problems for those driving themselves,TRANSPORTATION,adverse
+Many seniors report difficulty standing long periods waiting at bus stops increasing risk falls injuries,TRANSPORTATION,adverse
+The cost gas has risen significantly over recent years creating financial barriers preventing many low-income families accessing necessary health services,TRANSPORTATION,adverse
+"People living alone without family nearby find it hard arranging rides, particularly during emergencies.",TRANSPORTATION,adverse
+Families caring disabled children must navigate complex systems like Medicaid while also ensuring their child gets proper care management,TRANSPORTATION,adverse
+Transit schedules don't always align clinic hours leading missed appointment opportunities,TRANSPORTATION,adverse
+Scheduling conflicts arise when multiple specialists involved resulting increased stress levels among caregivers trying coordinate logistics,TRANSPORTATION,adverse
+Long wait times at bus stops leave elderly individuals exposed harsh weather conditions increasing risk illness,TRANSPORTATION,adverse
+Certain medications make operating motor vehicles unsafe leaving few alternatives besides relying on others,TRANSPORTATION,adverse
+Inadequate lighting along walkways increases risks falls injuries particularly older adults,TRANSPORTATION,adverse
+Having reliable transportation essential managing chronic illnesses requiring frequent follow-up visits,TRANSPORTATION,adverse
+A shortage affordable housing close hospitals/clinics means longer commutes more expensive taxi fares,TRANSPORTATION,adverse
+Difficulty navigating unfamiliar neighborhoods leads anxiety frustration among visitors new city,TRANSPORTATION,adverse
+"Medical equipment required by certain disabilities (e.g., oxygen tanks) can be bulky and difficult to transport",TRANSPORTATION,adverse
+Patients with mental health conditions may struggle using public transit due anxiety or other symptoms,TRANSPORTATION,adverse
+Transportation challenges often lead patients feeling overwhelmed stressed which negatively impacts overall well-being,TRANSPORTATION,adverse
+Inability afford transportation costs associated with medical appointments creates financial strain on families,TRANSPORTATION,adverse
+Some areas lack sidewalks making walking unsafe especially during inclement weather,TRANSPORTATION,adverse
+A shortage of accessible taxis makes getting around more challenging than it should be for those mobility issues,TRANSPORTATION,adverse
+Limited availability parking spaces near healthcare facilities creates problems for those driving themselves,TRANSPORTATION,adverse
+Many seniors report difficulty standing long periods waiting at bus stops increasing risk falls injuries,TRANSPORTATION,adverse
+The cost gas has risen significantly over recent years creating financial barriers preventing many low-income families accessing necessary health services,TRANSPORTATION,adverse
+"People living alone without family nearby find it hard arranging rides, particularly during emergencies.",TRANSPORTATION,adverse
+Families caring disabled children must navigate complex systems like Medicaid while also ensuring their child gets proper care management,TRANSPORTATION,adverse
+Transit schedules don't always align clinic hours leading missed appointment opportunities,TRANSPORTATION,adverse
+Scheduling conflicts arise when multiple specialists involved resulting increased stress levels among caregivers trying coordinate logistics,TRANSPORTATION,adverse
+Long wait times at bus stops leave elderly individuals exposed harsh weather conditions increasing risk illness,TRANSPORTATION,adverse
+Certain medications make operating motor vehicles unsafe leaving few alternatives besides relying on others,TRANSPORTATION,adverse
+Inadequate lighting along walkways increases risks falls injuries particularly older adults,TRANSPORTATION,adverse
+Having reliable transportation essential managing chronic illnesses requiring frequent follow-up visits,TRANSPORTATION,adverse
+A shortage affordable housing close hospitals/clinics means longer commutes more expensive taxi fares,TRANSPORTATION,adverse
+Difficulty navigating unfamiliar neighborhoods leads anxiety frustration among visitors new city,TRANSPORTATION,adverse
+"Medical equipment required by certain disabilities (e.g., oxygen tanks) can be bulky and difficult to transport",TRANSPORTATION,adverse
+Patients with mental health conditions may struggle using public transit due anxiety or other symptoms,TRANSPORTATION,adverse
+Transportation challenges often lead patients feeling overwhelmed stressed which negatively impacts overall well-being,TRANSPORTATION,adverse
+Inability afford transportation costs associated with medical appointments creates financial strain on families,TRANSPORTATION,adverse
+Some areas lack sidewalks making walking unsafe especially during inclement weather,TRANSPORTATION,adverse
+A shortage of accessible taxis makes getting around more challenging than it should be for those mobility issues,TRANSPORTATION,adverse
+Limited availability parking spaces near healthcare facilities creates problems for those driving themselves,TRANSPORTATION,adverse
+Many seniors report difficulty standing long periods waiting at bus stops increasing risk falls injuries,TRANSPORTATION,adverse
+The cost gas has risen significantly over recent years creating financial barriers preventing many low-income families accessing necessary health services,TRANSPORTATION,adverse
+"People living alone without family nearby find it hard arranging rides, particularly during emergencies.",TRANSPORTATION,adverse
+Families caring disabled children must navigate complex systems like Medicaid while also ensuring their child gets proper care management,TRANSPORTATION,adverse
+Transit schedules don't always align clinic hours leading missed appointment opportunities,TRANSPORTATION,adverse
+Scheduling conflicts arise when multiple specialists involved resulting increased stress levels among caregivers trying coordinate logistics,TRANSPORTATION,adverse
+Long wait times at bus stops leave elderly individuals exposed harsh weather conditions increasing risk illness,TRANSPORTATION,adverse
+Certain medications make operating motor vehicles unsafe leaving few alternatives besides relying on others,TRANSPORTATION,adverse
+Inadequate lighting along walkways increases risks falls injuries particularly older adults,TRANSPORTATION,adverse
+Having reliable transportation essential managing chronic illnesses requiring frequent follow-up visits,TRANSPORTATION,adverse
+A shortage affordable housing close hospitals/clinics means longer commutes more expensive taxi fares,TRANSPORTATION,adverse
+Difficulty navigating unfamiliar neighborhoods leads anxiety frustration among visitors new city,TRANSPORTATION,adverse
+"Medical equipment required by certain disabilities (e.g., oxygen tanks) can be bulky and difficult to transport",TRANSPORTATION,adverse
+Patients with mental health conditions may struggle using public transit due anxiety or other symptoms,TRANSPORTATION,adverse
+Transportation challenges often lead patients feeling overwhelmed stressed which negatively impacts overall well-being,TRANSPORTATION,adverse
+Inability afford transportation costs associated with medical appointments creates financial strain on families,TRANSPORTATION,adverse
+Some areas lack sidewalks making walking unsafe especially during inclement weather,TRANSPORTATION,adverse
+A shortage of accessible taxis makes getting around more challenging than it should be for those mobility issues.,TRANSPORTATION,adverse
+Patient reports feeling overwhelmed and isolated since her recent divorce.,RELATIONSHIP,adverse
+Divorced patient discusses feelings of guilt regarding the impact on children.,RELATIONSHIP,adverse
+Separated couple discuss options for co-parenting during separation period.,RELATIONSHIP,adverse
+Widowed patient describes difficulty sleeping due to loneliness following spouse's death.,RELATIONSHIP,adverse
+Single parent expresses frustration over lack of support from ex-partner in raising child together,RELATIONSHIP,adverse
+Patient reveals history of emotional abuse within previous marriage leading up until separation,RELATIONSHIP,adverse
+Widow shares concerns about financial stability after husband’s passing,RELATIONSHIP,adverse
+Single mother talks openly about juggling work responsibilities while caring for a young child at home,RELATIONSHIP,adverse
+Pt expresses sadness over failed relationship and inability to move forward romantically,RELATIONSHIP,adverse
+Separated couple discusses how best to communicate with each other when it comes to parenting decisions,RELATIONSHIP,adverse
+Divorcee seeks advice on how best to navigate dating scene as newly single person,RELATIONSHIP,adverse
+Widower struggles with depression following loss of wife,RELATIONSHIP,adverse
+Single father opens up about challenges he faces balancing job demands and childcare duties,RELATIONSHIP,adverse
+Patient admits feelings of shame associated with marital breakdown,RELATIONSHIP,adverse
+Separating partners explore different living arrangements that would be most beneficial for their family dynamic,RELATIONSHIP,adverse
+Recently divorced woman confides in physician regarding difficulties she is experiencing adjusting back into life as a singleton,RELATIONSHIP,adverse
+Widowed man speaks candidly about his fears surrounding growing old alone,RELATIONSHIP,adverse
+Mother-of-two details stressors related to managing household finances without partner’s income,RELATIONSHIP,adverse
+Couple going through difficult break-up seek guidance around custody issues involving their shared pet dog,RELATIONSHIP,adverse
+Patient discloses past experiences where they felt unsupported by former partner during times when they needed them most,RELATIONSHIP,adverse
+Man who has recently gone through painful split reflects upon lessons learned throughout process,RELATIONSHIP,adverse
+Newly-wedded woman confesses to physician that she is struggling with feelings of regret and uncertainty about her decision to marry,RELATIONSHIP,adverse
+Patient discusses feeling overwhelmed by the prospect of being a single parent after separation from partner,RELATIONSHIP,adverse
+"Widowed woman shares memories of husband, expressing gratitude for time they shared together",RELATIONSHIP,adverse
+Single father seeks advice on how best to support his teenage daughter through difficult emotional period following parents’ divorce,RELATIONSHIP,adverse
+Pt describes difficulty in moving past failed relationship due to unresolved feelings towards ex-partner,RELATIONSHIP,adverse
+Separated couple discuss options around mediation as means of resolving disputes related to parenting arrangements,RELATIONSHIP,adverse
+Divorcee talks openly about sense of loss felt since ending long-term marriage,RELATIONSHIP,adverse
+Widower admits fears surrounding potential judgement from others regarding his decision not seek out new romantic relationships,RELATIONSHIP,adverse
+Single mother expresses frustration over lack childcare resources available during work hours,RELATIONSHIP,adverse
+Patient reveals history physical abuse within previous marriage leading up until separation,RELATIONSHIP,adverse
+Couple going through break-up talk candidly about their struggles with communication throughout relationship,RELATIONSHIP,adverse
+Recently divorced man details difficulties he has faced trying maintain healthy co-parenting dynamic with former spouse,RELATIONSHIP,adverse
+Woman who recently ended engagement confides in physician regarding guilt she feels over calling off wedding,RELATIONSHIP,adverse
+Man whose wife passed away unexpectedly speaks honestly about anger he feels towards God,RELATIONSHIP,adverse
+Mother-of-three opens up about challenges associated raising children alone after separating from partner,RELATIONSHIP,adverse
+Newly-single patient reflects upon newfound freedom but also acknowledges loneliness experienced since marital breakdown,RELATIONSHIP,adverse
+Seeking guidance around ways can better communicate needs and boundaries when it comes dating post-divorce,RELATIONSHIP,adverse
+"Father-of-two discusses financial stressors brought on by recent split, including child support payments",RELATIONSHIP,adverse
+Separating partners explore different living arrangements that would be most beneficial for their family dynamic,RELATIONSHIP,adverse
+Divorced patient shares concerns over impact breakup may have had on mental health,RELATIONSHIP,adverse
+Widowed individual expresses desire for more social interaction,RELATIONSHIP,adverse
+Single parent discusses challenges of dating while balancing childcare responsibilities,RELATIONSHIP,adverse
+Patient reveals history of substance abuse as coping mechanism following divorce,RELATIONSHIP,adverse
+Separated couple discuss ways to best support their children during difficult transition period.,RELATIONSHIP,adverse
+Recently widowed pt talked openly about anger felt towards God following spouse's sudden passing.,RELATIONSHIP,adverse
+Patient admits difficulty in trusting new partners after experiencing infidelity within previous marriage,RELATIONSHIP,adverse
+Single mother expresses concern over impact separation may have on her child’s mental health,RELATIONSHIP,adverse
+Pt describes feeling isolated from friends/family members due to shame associated with divorce,RELATIONSHIP,adverse
+Separating partners explore different living arrangements that would be most beneficial for their family dynamic,RELATIONSHIP,adverse
+Recently divorced woman talks candidly about feelings of loneliness and isolation experienced since ending long-term relationship,RELATIONSHIP,adverse
+"Widower shares memories his wife, expressing gratitude for time they shared together",RELATIONSHIP,adverse
+Couple going through break-up seek advice around how best communicate with each other when it comes parenting decisions,RELATIONSHIP,adverse
+Mother-of-two opens up about struggles she has faced trying maintain work-life balance without partner’s help,RELATIONSHIP,adverse
+Patient discloses past experiences where they felt unsupported by former partner during times when needed them most,RELATIONSHIP,adverse
+Man who recently ended engagement reflects upon lessons learned throughout process,RELATIONSHIP,adverse
+Father-of-three seeks guidance around ways can better manage stress related raising kids alone post-separation,RELATIONSHIP,adverse
+Newly-single patient details difficulties he has encountered navigating online dating scene,RELATIONSHIP,adverse
+Divorcee confides in physician regarding sense guilt she feels over calling off wedding,RELATIONSHIP,adverse
+"Separated couple talk honestly about issues surrounding co-parenting dynamics, including disagreements around discipline",RELATIONSHIP,adverse
+Woman whose husband passed away unexpectedly speaks candidly grief counseling received since loss,RELATIONSHIP,adverse
+Single father admits fears surrounding potential judgement from others regarding decision not seek out new romantic relationships,RELATIONSHIP,adverse
+Pt describes feeling overwhelmed by prospect being single parent after separation from partner,RELATIONSHIP,adverse
+Couple going through break-up detail financial stresses brought on by legal fees and other expenses associated with separation process,RELATIONSHIP,adverse
+Recently divorced man opens up about sense of loss felt since ending long-term marriage,RELATIONSHIP,adverse
+Widower discusses challenges he has faced trying to maintain social connections after wife’s passing,RELATIONSHIP,adverse
+Single mother talks openly about struggles she faces balancing work responsibilities while caring for young children at home,RELATIONSHIP,adverse
+"Patient admits difficulty in letting go past relationship, including unresolved feelings towards ex-partner",RELATIONSHIP,adverse
+Separating partners discuss ways can best support their children during difficult transition period.,RELATIONSHIP,adverse
+Divorcee seeks advice around how best communicate with former spouse when it comes parenting decisions,RELATIONSHIP,adverse
+Woman who recently ended engagement expresses desire for more time alone focus personal growth,RELATIONSHIP,adverse
+Mother-of-two details stressors related managing household finances without partner’s income,RELATIONSHIP,adverse
+Pt reveals history emotional abuse within previous marriage leading up until separation,RELATIONSHIP,adverse
+Couple going through break-up explore different living arrangements that would be most beneficial for their family dynamic,RELATIONSHIP,adverse
+Newly-single patient reflects upon newfound freedom but also acknowledges loneliness experienced since marital breakdown,RELATIONSHIP,adverse
+Father-of-three confides in physician regarding guilt he feels over impact divorce may have had on his kids’ mental health,RELATIONSHIP,adverse
+"Man whose wife passed away unexpectedly shares memories her, expressing gratitude for time they shared together",RELATIONSHIP,adverse
+"Separated couple talk candidly about issues surrounding co-parenting dynamics, including disagreements around discipline",RELATIONSHIP,adverse
+Single parent discusses concerns over potential negative impacts separation may have child's academic performance,RELATIONSHIP,adverse
+Patient discloses past experiences where they felt unsupported by former partner during times when needed them most,RELATIONSHIP,adverse
+Recently divorced woman explores options counseling as means of coping with grief and loss following end long-term relationship,RELATIONSHIP,adverse
+Widow describes difficulties encountered navigating healthcare system solo post-spouse's death,RELATIONSHIP,adverse
+Couple going through break-up seek guidance around custody issues involving shared pet cat,RELATIONSHIP,adverse
+New single father talks honestly about fears surrounding raising daughter alone post-divorce,RELATIONSHIP,adverse
+Pt describes feeling overwhelmed by prospect being single parent after separation from partner,RELATIONSHIP,adverse
+Separating partners discuss ways can best support their children during difficult transition period.,RELATIONSHIP,adverse
+Divorced patient shares concerns over impact breakup may have had on mental health,RELATIONSHIP,adverse
+Widowed individual expresses desire for more social interaction,RELATIONSHIP,adverse
+Single mother discusses challenges of dating while balancing childcare responsibilities,RELATIONSHIP,adverse
+Patient reveals history substance abuse as coping mechanism following divorce,RELATIONSHIP,adverse
+"Separated couple talk candidly about issues surrounding co-parenting dynamics, including disagreements around discipline",RELATIONSHIP,adverse
+Recently widowed pt talked openly about anger felt towards God following spouse's sudden passing.,RELATIONSHIP,adverse
+Patient admits difficulty in trusting new partners after experiencing infidelity within previous marriage,RELATIONSHIP,adverse
+Mother-of-two opens up about struggles she has faced trying maintain work-life balance without partner’s help,RELATIONSHIP,adverse
+Man who recently ended engagement reflects upon lessons learned throughout process,RELATIONSHIP,adverse
+Father-of-three seeks guidance around ways can better manage stress related raising kids alone post-separation,RELATIONSHIP,adverse
+Newly-single patient details difficulties he has encountered navigating online dating scene,RELATIONSHIP,adverse
+Couple going through break-up detail financial stresses brought on by legal fees and other expenses associated with separation process,RELATIONSHIP,adverse
+Widower discusses challenges he has faced trying to maintain social connections after wife’s passing,RELATIONSHIP,adverse
+Single mother talks openly about struggles she faces balancing work responsibilities while caring for young children at home          ,RELATIONSHIP,adverse
+Patient reports that her husband is supportive of her decision to quit smoking.,RELATIONSHIP,nonadverse
+Pt and his partner came in for a routine check-up today.,RELATIONSHIP,nonadverse
+Patient states that she has been with her girlfriend for three years now.,RELATIONSHIP,nonadverse
+Spoke briefly regarding relationship issues between himself and longtime boyfriend.,RELATIONSHIP,nonadverse
+Patient arrived with their wife who provided additional medical history information.,RELATIONSHIP,nonadverse
+The patient's spouse was present during the consultation and helped clarify some details about the patient's symptoms.,RELATIONSHIP,nonadverse
+The patient reported feeling anxious due to recent marital problems.,RELATIONSHIP,nonadverse
+Patient mentioned having difficulty sleeping since moving in with new partner last month,RELATIONSHIP,nonadverse
+Pt stated he had recently gotten engaged but feels stressed planning wedding while managing chronic pain,RELATIONSHIP,nonadverse
+Patient discussed concerns over fertility treatment options available to same-sex couples,RELATIONSHIP,nonadverse
+Spouse accompanied pt into exam room; both expressed concern over recent weight gain,RELATIONSHIP,nonadverse
+Pt disclosed experiencing intimate partner violence at home; safety plan developed w/ support from social work team,RELATIONSHIP,nonadverse
+Couple seeking advice on how best to manage diabetes together as they prepare for retirement travel plans,RELATIONSHIP,nonadverse
+Wife shared concerns re: husband’s alcohol use impacting family dynamics & ability to care for children,RELATIONSHIP,nonadverse
+"Partner attended appointment virtually via telemedicine platform, providing valuable input on medication management changes needed",RELATIONSHIP,nonadverse
+Husband noted significant improvement in joint pain after starting exercise program recommended by physician,RELATIONSHIP,nonadverse
+Patient described challenges navigating healthcare system as an LGBTQ+ couple when trying conceive through IVF process,RELATIONSHIP,nonadverse
+Spoke briefly regarding communication barriers between herself and non-English speaking domestic partner,RELATIONSHIP,nonadverse
+"Fiancee joined call midway through appointment, expressing gratitude towards provider’s thoroughness thus far",RELATIONSHIP,nonadverse
+Partnership dynamic discussed at length following diagnosis of sexually transmitted infection (STI) within couple,RELATIONSHIP,nonadverse
+Married couple sought guidance around sexual dysfunction related side effects of antidepressant medication,RELATIONSHIP,nonadverse
+"Patient reported feeling unsupported by partner in managing chronic illness, seeking advice on how to improve communication",RELATIONSHIP,nonadverse
+Pt and spouse shared concerns re: impact of recent job loss on ability to afford necessary medications & treatments,RELATIONSHIP,nonadverse
+Partner present during appointment expressed gratitude for provider’s compassionate care towards patient with terminal diagnosis,RELATIONSHIP,nonadverse
+Couple discussed options for family planning following successful treatment of cervical cancer,RELATIONSHIP,nonadverse
+Spouse accompanied pt into exam room; both expressed concern over recent weight gain,RELATIONSHIP,nonadverse
+Patient mentioned having difficulty sleeping since moving in with new partner last month,RELATIONSHIP,nonadverse
+Pt stated he had recently gotten engaged but feels stressed planning wedding while managing chronic pain.,RELATIONSHIP,nonadverse
+Patient disclosed experiencing intimate partner violence at home; safety plan developed w/ support from social work team.,RELATIONSHIP,nonadverse
+Couple seeking advice on how best to manage diabetes together as they prepare for retirement travel plans.,RELATIONSHIP,nonadverse
+Wife shared concerns re: husband’s alcohol use impacting family dynamics & ability to care for children .,RELATIONSHIP,nonadverse
+"Partner attended appointment virtually via telemedicine platform, providing valuable input on medication management changes needed .",RELATIONSHIP,nonadverse
+Husband noted significant improvement in joint pain after starting exercise program recommended by physician .,RELATIONSHIP,nonadverse
+Patient described challenges navigating healthcare system as an LGBTQ+ couple when trying conceive through IVF process .,RELATIONSHIP,nonadverse
+Spoke briefly regarding communication barriers between herself and non-English speaking domestic partner .,RELATIONSHIP,nonadverse
+"Fiancee joined call midway through appointment, expressing gratitude towards provider’s thoroughness thus far",RELATIONSHIP,nonadverse
+Partnership dynamic discussed at length following diagnosis of sexually transmitted infection (STI) within couple,RELATIONSHIP,nonadverse
+Married couple sought guidance around sexual dysfunction related side effects of antidepressant medication,RELATIONSHIP,nonadverse
+Pt arrived alone today but mentioned that she has a supportive girlfriend who helps her manage her anxiety symptoms.,RELATIONSHIP,nonadverse
+The patient's husband was not able to attend the consultation due to work commitments.,RELATIONSHIP,nonadverse
+Patients reports being happily married and credits their spouse's encouragement for their recent weight loss.,RELATIONSHIP,nonadverse
+Patient states that they have been with their partner for 10 years and are considering starting a family together.,RELATIONSHIP,nonadverse
+Pt arrived with her boyfriend who provided additional medical history information about her allergies.,RELATIONSHIP,nonadverse
+The patient's wife was present during the appointment and expressed concern over his high blood pressure readings.,RELATIONSHIP,nonadverse
+Couple seeking advice on how to manage stress related to infertility issues while undergoing fertility treatments,RELATIONSHIP,nonadverse
+"Partner attended appointment virtually via telemedicine platform, providing valuable input on medication management changes needed .",RELATIONSHIP,nonadverse
+Husband noted significant improvement in joint pain after starting exercise program recommended by physician .,RELATIONSHIP,nonadverse
+Patient described challenges navigating healthcare system as an LGBTQ+ couple when trying conceive through IVF process .,RELATIONSHIP,nonadverse
+Spoke briefly regarding communication barriers between herself and non-English speaking domestic partner .,RELATIONSHIP,nonadverse
+"Fiancee joined call midway through appointment, expressing gratitude towards provider’s thoroughness thus far",RELATIONSHIP,nonadverse
+Partnership dynamic discussed at length following diagnosis of sexually transmitted infection (STI) within couple,RELATIONSHIP,nonadverse
+Married couple sought guidance around sexual dysfunction related side effects of antidepressant medication,RELATIONSHIP,nonadverse
+Wife accompanied pt into exam room; both shared concerns re: husband’s chronic back pain impacting quality of life,RELATIONSHIP,nonadverse
+Spouse disclosed feeling overwhelmed caring for patient w/ dementia symptoms; social work referral made,RELATIONSHIP,nonadverse
+Pt reported difficulty managing hypertension due to lack of support from spouse re: dietary restrictions & lifestyle changes,RELATIONSHIP,nonadverse
+Couples counseling referral made following discussion surrounding impact of PTSD symptoms on relationship dynamics,RELATIONSHIP,nonadverse
+LGBTQ+ patients requested resources available locally supporting same-sex couples interested in adoption process,RELATIONSHIP,nonadverse
+Spouse present during consultation mentioned noticing increased forgetfulness & confusion in pt since retirement last year,RELATIONSHIP,nonadverse
+Patient reports being happily married but struggling with feelings associated w/ menopause-related mood swings,RELATIONSHIP,nonadverse
+Pt arrived alone today but mentioned that she has a supportive girlfriend who helps her manage her anxiety symptoms.,RELATIONSHIP,nonadverse
+The patient's husband was not able to attend the consultation due to work commitments.,RELATIONSHIP,nonadverse
+Patients reports being happily married and credits their spouse's encouragement for their recent weight loss.,RELATIONSHIP,nonadverse
+Patient states that they have been with their partner for 10 years and are considering starting a family together.,RELATIONSHIP,nonadverse
+Pt arrived with her boyfriend who provided additional medical history information about her allergies.,RELATIONSHIP,nonadverse
+The patient's wife was present during the appointment and expressed concern over his high blood pressure readings.,RELATIONSHIP,nonadverse
+Couple seeking advice on how best to manage diabetes together as they prepare for retirement travel plans,RELATIONSHIP,nonadverse
+Wife shared concerns re: husband’s alcohol use impacting family dynamics & ability to care for children,RELATIONSHIP,nonadverse
+"Partner attended appointment virtually via telemedicine platform, providing valuable input on medication management changes needed .",RELATIONSHIP,nonadverse
+Husband noted significant improvement in joint pain after starting exercise program recommended by physician .,RELATIONSHIP,nonadverse
+Patient described challenges navigating healthcare system as an LGBTQ+ couple when trying conceive through IVF process .,RELATIONSHIP,nonadverse
+Spoke briefly regarding communication barriers between herself and non-English speaking domestic partner .,RELATIONSHIP,nonadverse
+"Fiancee joined call midway through appointment, expressing gratitude towards provider’s thoroughness thus far",RELATIONSHIP,nonadverse
+Partnership dynamic discussed at length following diagnosis of sexually transmitted infection (STI) within couple,RELATIONSHIP,nonadverse
+Married couple sought guidance around sexual dysfunction related side effects of antidepressant medication,RELATIONSHIP,nonadverse
+Spouse accompanied pt into exam room; both expressed concern over recent weight gain,RELATIONSHIP,nonadverse
+Patient mentioned having difficulty sleeping since moving in with new partner last month,RELATIONSHIP,nonadverse
+Pt stated he had recently gotten engaged but feels stressed planning wedding while managing chronic pain.,RELATIONSHIP,nonadverse
+Patient disclosed experiencing intimate partner violence at home; safety plan developed w/ support from social work team.,RELATIONSHIP,nonadverse
+Couples counseling referral made following discussion surrounding impact of PTSD symptoms on relationship dynamics,RELATIONSHIP,nonadverse
+LGBTQ+ patients requested resources available locally supporting same-sex couples interested in adoption process,RELATIONSHIP,nonadverse
+Spouse present during consultation mentioned noticing increased forgetfulness & confusion in pt since retirement last year,RELATIONSHIP,nonadverse
+Patient reports being happily married but struggling with feelings associated w/ menopause-related mood swings,RELATIONSHIP,nonadverse
+Pt arrived alone today but mentioned that she has a supportive girlfriend who helps her manage her anxiety symptoms.,RELATIONSHIP,nonadverse
+The patient's husband was not able to attend the consultation due to work commitments.,RELATIONSHIP,nonadverse
+Patients reports being happily married and credits their spouse's encouragement for their recent weight loss.,RELATIONSHIP,nonadverse
+Patient states that they have been with their partner for 10 years and are considering starting a family together.,RELATIONSHIP,nonadverse
+Couple seeking advice on how best to manage diabetes together as they prepare for retirement travel plans,RELATIONSHIP,nonadverse
+Wife shared concerns re: husband’s alcohol use impacting family dynamics & ability to care for children,RELATIONSHIP,nonadverse
+"Partner attended appointment virtually via telemedicine platform, providing valuable input on medication management changes needed .",RELATIONSHIP,nonadverse
+Husband noted significant improvement in joint pain after starting exercise program recommended by physician .,RELATIONSHIP,nonadverse
+Spouse accompanied pt into exam room; both expressed concern over recent weight gain,RELATIONSHIP,nonadverse
+Patient mentioned having difficulty sleeping since moving in with new partner last month,RELATIONSHIP,nonadverse
+Pt stated he had recently gotten engaged but feels stressed planning wedding while managing chronic pain.,RELATIONSHIP,nonadverse
+Spoke briefly regarding communication barriers between herself and non-English speaking domestic partner .,RELATIONSHIP,nonadverse
+"Fiancee joined call midway through appointment, expressing gratitude towards provider’s thoroughness thus far",RELATIONSHIP,nonadverse
+Partnership dynamic discussed at length following diagnosis of sexually transmitted infection (STI) within couple,RELATIONSHIP,nonadverse
+Married couple sought guidance around sexual dysfunction related side effects of antidepressant medication,RELATIONSHIP,nonadverse
+LGBTQ+ patients requested resources available locally supporting same-sex couples interested in adoption process,RELATIONSHIP,nonadverse
+Spouse present during consultation mentioned noticing increased forgetfulness & confusion in pt since retirement last year,RELATIONSHIP,nonadverse
+Patient reported feeling anxious due to recent marital problems.,RELATIONSHIP,nonadverse
+Patient reported having one child under the age of six.,PARENT,adverse
+Pt shared that they are expecting their third child this spring.,PARENT,adverse
+"Single mom attending appointment with her two girls (ages 7,10) who have been arguing lately.",PARENT,adverse
+Aunt brought niece into clinic after becoming legal guardian following family tragedy.,PARENT,adverse
+Pt disclosed they have adopted an infant girl last month.,PARENT,adverse
+Patient is a mother of three children aged between five and ten years.,PARENT,adverse
+Father accompanied his teenage daughter for her routine check-up.,PARENT,adverse
+Single parent struggling with managing work and taking care of young kids at home.,PARENT,adverse
+Grandmother bringing in grandson for flu-like symptoms,PARENT,adverse
+Mother concerned about son's recent weight gain.,PARENT,adverse
+"Parents worried about toddler's delayed speech development"".",PARENT,adverse
+"Couple seeking advice on how to manage sibling rivalry among their two boys"".",PARENT,adverse
+Guardian accompanying foster child for medical evaluation,PARENT,adverse
+Newly-wed couple discussing family planning options during consultation visit,PARENT,adverse
+Parent reporting behavioral issues related to ADHD diagnosis,PARENT,adverse
+Pregnant patient expressing concerns over gestational diabetes risk due to previous history ,PARENT,adverse
+Family member bringing elderly relative suffering from dementia-related complications ,PARENT,adverse
+Mom sharing concern regarding adolescent’s anxiety,PARENT,adverse
+Father requesting guidance on healthy eating habits for overweight teen,PARENT,adverse
+Expecting mother asking questions regarding breastfeeding,PARENT,adverse
+Single father raising teenager alone seeks support group recommendations,PARENT,adverse
+Custodial grandparent brings granddaughter in as primary caregiver.,PARENT,adverse
+Parents discuss safety measures around pool area with pediatrician.,PARENT,adverse
+Foster parent asks doctor if it’s safe enough yet to take foster children out shopping amid pandemic restrictions?,PARENT,adverse
+Adoptive parents inquire about counseling services for their child who has experienced trauma.,PARENT,adverse
+Mother of a newborn seeks advice on breastfeeding and latching techniques.,PARENT,adverse
+Father brings in his daughter with complaints of stomach pain,PARENT,adverse
+Parents concerned about son's recent diagnosis with autism spectrum disorder,PARENT,adverse
+Single mother seeking guidance regarding her teenage daughter’s menstrual cycle.,PARENT,adverse
+Grandparents bringing grandchild to appointment due to parent being out of town,PARENT,adverse
+Expecting parents asking questions related to prenatal care,PARENT,adverse
+Parent reporting concerns over adolescent's substance abuse issues ,PARENT,adverse
+Guardian accompanying foster child for medical evaluation,PARENT,adverse
+Couple discussing options around fertility treatments during consultation visit,PARENT,adverse
+New mom worried about infant’s sleeping patterns,PARENT,adverse
+Pregnant patient expressing concern over the possibility of preterm labor due to previous history.,PARENT,adverse
+Parents report behavioral changes in toddler following family move. Seeking support from pediatrician.,PARENT,adverse
+"Father asks doctor if it is safe enough yet for children under 12 years old, amid pandemic restrictions?",PARENT,adverse
+Adoptive parents seek information on how best they can help their adopted teenager cope with past traumas.,PARENT,adverse
+Mom sharing concern regarding adolescent’s depression,PARENT,adverse
+Family member bringing elderly relative suffering from Alzheimer-related complications .,PARENT,adverse
+Single father raising special needs teen alone requests resources available within community.,PARENT,adverse
+Custodial grandmother reports granddaughter experiencing bullying at school.,PARENT,adverse
+Parents discuss safety measures around pool area with pediatrician.,PARENT,adverse
+ Foster parent asks doctor if it is safe enough yet take foster children out shopping amid pandemic restrictions?,PARENT,adverse
+"Expecting couple ask questions related baby-proofing home before arrival"".",PARENT,adverse
+" Parent shares that she has been diagnosed recently as bipolar and wants some suggestions on coping mechanisms while parenting young kids"".",PARENT,adverse
+ Mother expresses worry after discovering bed bugs in child’s room.,PARENT,adverse
+ Father brings in his son with complaints of ear pain and fever,PARENT,adverse
+Grandparents bringing grandchild to appointment due to parent being out of town,PARENT,adverse
+Parent reporting concerns over adolescent's eating disorder,PARENT,adverse
+Single mother seeking guidance regarding her teenage daughter’s acne.,PARENT,adverse
+Guardian accompanying foster child for medical evaluation,PARENT,adverse
+Couple discussing options around adoption during consultation visit,PARENT,adverse
+New mom worried about infant’s feeding patterns,PARENT,adverse
+Pregnant patient expressing concern over the possibility of gestational hypertension due to previous history.,PARENT,adverse
+Parents report behavioral changes in toddler following family move. Seeking support from pediatrician.,PARENT,adverse
+"Mother asks doctor if it is safe enough yet for children under 12 years old, amid pandemic restrictions?",PARENT,adverse
+Adoptive parents seek information on how best they can help their adopted teenager cope with past traumas.,PARENT,adverse
+Father shares that he has been diagnosed recently as bipolar and wants some suggestions on coping mechanisms while parenting young kids.,PARENT,adverse
+Family member bringing elderly relative suffering from Parkinson-related complications .,PARENT,adverse
+Single father raising special needs teen alone requests resources available within community.,PARENT,adverse
+Custodial grandmother reports granddaughter experiencing anxiety at school.,PARENT,adverse
+Parents discuss safety measures around pool area with pediatrician.,PARENT,adverse
+ Foster parent seeks advice related managing sibling rivalry between two foster children.,PARENT,adverse
+"Expecting couple ask questions related baby-proofing home before arrival"".",PARENT,adverse
+" Parent shares that she has been diagnosed recently as depression and wants some suggestions on coping mechanisms while parenting young kids"".",PARENT,adverse
+ Mother expresses worry after discovering lice infestation in child’s hair.,PARENT,adverse
+ Father brings his daughter who was injured playing soccer last night,PARENT,adverse
+Grandparents bringing grandchild to appointment due to parent being out of town,PARENT,adverse
+Parent reporting concerns over adolescent's anxiety disorder,PARENT,adverse
+Single mother seeking guidance regarding her teenage daughter’s menstrual cycle.,PARENT,adverse
+Guardian accompanying foster child for medical evaluation,PARENT,adverse
+Couple discussing options around surrogacy during consultation visit,PARENT,adverse
+New mom worried about infant’s sleeping patterns,PARENT,adverse
+Pregnant patient expressing concern over the possibility of gestational diabetes due to previous history.,PARENT,adverse
+Parents report behavioral changes in toddler following family move. Seeking support from pediatrician.,PARENT,adverse
+"Mother asks doctor if it is safe enough yet for children under 12 years old, amid pandemic restrictions?",PARENT,adverse
+Adoptive parents seek information on how best they can help their adopted teenager cope with past traumas.,PARENT,adverse
+Father shares that he has been diagnosed recently as depression and wants some suggestions on coping mechanisms while parenting young kids.,PARENT,adverse
+Family member bringing elderly relative suffering from dementia-related complications .,PARENT,adverse
+Single father raising special needs teen alone requests resources available within community.,PARENT,adverse
+Custodial grandmother reports granddaughter experiencing bullying at school.,PARENT,adverse
+Parents discuss safety measures around pool area with pediatrician.,PARENT,adverse
+ Foster parent seeks advice related managing sibling rivalry between two foster children.,PARENT,adverse
+"Expecting couple ask questions related baby-proofing home before arrival"".",PARENT,adverse
+" Parent shares that she has been diagnosed recently as bipolar and wants some suggestions on coping mechanisms while parenting young kids"".",PARENT,adverse
+ Mother expresses worry after discovering bed bugs in child’s room.,PARENT,adverse
+ Father brings his son who was injured playing basketball last night,PARENT,adverse
+Grandparents bringing grandchild to appointment due to parent being out of town,PARENT,adverse
+Parent reporting concerns over adolescent's substance abuse issues ,PARENT,adverse
+Single mother seeking guidance regarding her teenage daughter’s acne problem .,PARENT,adverse
+Guardian accompanying foster child for medical evaluation,PARENT,adverse
+Couple discussing options around adoption during consultation visit,PARENT,adverse
+New mom worried about infant’s feeding patterns,PARENT,adverse
+Pregnant patient expressing concern over the possibility of gestational hypertension due to previous history.,PARENT,adverse
+Parents report behavioral changes in toddler following family move. Seeking support from pediatrician.,PARENT,adverse
+"Mother asks doctor if it is safe enough yet for children under 12 years old, amid pandemic restrictions?",PARENT,adverse
+Adoptive parents seek information on how best they can help their adopted teenager cope with past traumas.,PARENT,adverse
+Father shares that he has been diagnosed recently as depression and wants some suggestions on coping mechanisms while parenting young kids.,PARENT,adverse
+Patient reports difficulty balancing disability and occasional work as an Uber driver.,EMPLOYMENT,adverse
+Pt expresses frustration with lack of job opportunities in their field despite extensive experience and education.,EMPLOYMENT,adverse
+Patient is experiencing financial stress following recent job loss.,EMPLOYMENT,adverse
+Difficulty paying rent due to limited income from part-time work at Jim's Fish reported by patient during visit today.,EMPLOYMENT,adverse
+Unemployment has been the primary source of income for this patient over past two months; they express concern about making ends meet.,EMPLOYMENT,adverse
+Patient reports feeling overwhelmed trying to manage both a full-time job and caring for elderly parent at home.,EMPLOYMENT,adverse
+Pt expresses concerns regarding discrimination based on age when applying for jobs within their industry.,EMPLOYMENT,adverse
+Patient describes ongoing struggle with anxiety related to workplace bullying by supervisor.,EMPLOYMENT,adverse
+Difficulty finding employment due to criminal record discussed during appointment today; pt seeking guidance on how best to approach potential employers moving forward.,EMPLOYMENT,adverse
+Pt recently diagnosed with chronic illness that may impact ability to continue working long-term; discussion around accommodations needed in workplace initiated.,EMPLOYMENT,adverse
+Unable find suitable childcare arrangement while working night shift causing significant strain on family life according pt report,EMPLOYMENT,adverse
+Financial insecurity resulting from reduced hours at current position shared by pt during visit today,EMPLOYMENT,adverse
+Challenges associated with managing mental health condition while maintaining steady employment discussed between physician & patient,EMPLOYMENT,adverse
+Limited access transportation options preventing reliable attendance scheduled shifts noted as barrier achieving stable income stream per patients report,EMPLOYMENT,adverse
+Workplace injury sustained last month still impacting daily activities including ability perform essential duties required current role,EMPLOYMENT,adverse
+Career transition being considered after years spent in high-stress environment taking toll physical well-being expressed by PT,EMPLOYMENT,adverse
+Discussion surrounding reasonable accommodation requests made known employer related medical condition had positive outcome according PT feedback,EMPLOYMENT,adverse
+Job search efforts hindered language barriers experienced non-native English speaker described as frustrating situation per patient report,EMPLOYMENT,adverse
+Pt reports feeling undervalued and underpaid in current position despite years of dedicated service to company.,EMPLOYMENT,adverse
+Difficulty maintaining work-life balance due to long commute times discussed during appointment today; pt seeking advice on potential solutions.,EMPLOYMENT,adverse
+Patient experiencing chronic pain related to repetitive strain injury from job duties; discussion around alternative employment options initiated.,EMPLOYMENT,adverse
+Financial stress resulting from recent divorce causing difficulty managing expenses while working part-time noted by patient during visit today,EMPLOYMENT,adverse
+Challenges associated with being a single parent while also holding down full-time job discussed between physician & patient,EMPLOYMENT,adverse
+"Unable find suitable employment following layoff last year, leading to ongoing financial insecurity reported by pt at this time.",EMPLOYMENT,adverse
+Discussion surrounding reasonable accommodation requests made known employer related medical condition had negative outcome according PT feedback,EMPLOYMENT,adverse
+Workplace harassment experienced female employee shared concerns about retaliation if complaint filed against supervisor per patients report,EMPLOYMENT,adverse
+Career advancement opportunities limited within organization prompting consideration external positions expressed by PT during consultation,EMPLOYMENT,adverse
+Job search efforts hindered lack access reliable internet connection described as frustrating situation per patient report,EMPLOYMENT,adverse
+Pt reports struggling maintain productivity levels required for role due mental health challenges including depression and anxiety symptoms.,EMPLOYMENT,adverse
+Difficulty securing stable income stream after multiple layoffs over past few years creating significant financial burden for family mentioned by Pt,EMPLOYMENT,adverse
+Patient recently diagnosed with disability that may impact ability continue working long-term; discussion around accommodations needed in workplace initiated.,EMPLOYMENT,adverse
+Financial hardship resulting from unexpected medical bills impacting ability cover basic living expenses reported by pt at this time,EMPLOYMENT,adverse
+Challenges associated with navigating complex healthcare system while also holding down demanding full-time job discussed between physician & patient,EMPLOYMENT,adverse
+Limited access transportation options preventing reliable attendance scheduled shifts noted as barrier achieving stable income stream per patients report,EMPLOYMENT,adverse
+Workplace bullying experienced male employee shared concerns about impact on self-esteem and overall well-being described as distressing experience according PT feedback,EMPLOYMENT,adverse
+Career transition being considered after years spent in high-stress environment taking toll physical well-being expressed by PT,EMPLOYMENT,adverse
+Difficulty finding employment due to lack of experience within desired field discussed during appointment today; pt seeking guidance on how best to approach potential employers moving forward.,EMPLOYMENT,adverse
+Pt reports feeling undervalued and underpaid in current position despite recent promotion.,EMPLOYMENT,adverse
+Workplace injury sustained last month still impacting daily activities including ability perform essential duties required current role,EMPLOYMENT,adverse
+Challenges associated with managing chronic illness while maintaining steady employment discussed between physician & patient,EMPLOYMENT,adverse
+Patient experiencing significant stress related to job loss following company downsizing; discussion around coping strategies initiated.,EMPLOYMENT,adverse
+Financial insecurity resulting from reduced hours at current position shared by pt during visit today,EMPLOYMENT,adverse
+Unable find suitable childcare arrangement while working night shift causing significant strain on family life according pt report,EMPLOYMENT,adverse
+Discussion surrounding reasonable accommodation requests made known employer related medical condition had positive outcome according PT feedback,EMPLOYMENT,adverse
+Job search efforts hindered language barriers experienced non-native English speaker described as frustrating situation per patient report,EMPLOYMENT,adverse
+Pt recently diagnosed with mental health condition that may impact ability continue working long-term; discussion around accommodations needed in workplace initiated.,EMPLOYMENT,adverse
+Difficulty securing stable income stream after multiple layoffs over past few years creating significant financial burden for family mentioned by Pt,EMPLOYMENT,adverse
+Limited access transportation options preventing reliable attendance scheduled shifts noted as barrier achieving stable income stream per patients report,EMPLOYMENT,adverse
+Workplace harassment experienced female employee shared concerns about retaliation if complaint filed against supervisor per patients report,EMPLOYMENT,adverse
+Career advancement opportunities limited within organization prompting consideration external positions expressed by PT during consultation,EMPLOYMENT,adverse
+Patient reports difficulty balancing disability and occasional work as an Uber driver.,EMPLOYMENT,adverse
+Pt expresses frustration with lack of job opportunities in their field despite extensive experience and education.,EMPLOYMENT,adverse
+Patient is experiencing financial stress following recent job loss.,EMPLOYMENT,adverse
+Difficulty paying rent due to limited income from part-time work at Jim's Fish reported by patient during visit today.,EMPLOYMENT,adverse
+Unemployment has been the primary source of income for this patient over past two months; they express concern about making ends meet.,EMPLOYMENT,adverse
+Patient reports feeling overwhelmed trying to manage both a full-time job and caring for elderly parent at home.,EMPLOYMENT,adverse
+Pt expresses concerns regarding discrimination based on age when applying for jobs within their industry.,EMPLOYMENT,adverse
+Patient describes ongoing struggle with anxiety related to workplace bullying by supervisor.,EMPLOYMENT,adverse
+Difficulty finding employment due to criminal record discussed during appointment today; pt seeking guidance on how best to approach potential employers moving forward.,EMPLOYMENT,adverse
+Pt recently diagnosed with chronic illness that may impact ability to continue working long-term; discussion around accommodations needed in workplace initiated.,EMPLOYMENT,adverse
+Unable find suitable childcare arrangement while working night shift causing significant strain on family life according pt report,EMPLOYMENT,adverse
+Financial insecurity resulting from reduced hours at current position shared by pt during visit today,EMPLOYMENT,adverse
+Challenges associated with managing mental health condition while maintaining steady employment discussed between physician & patient,EMPLOYMENT,adverse
+Limited access transportation options preventing reliable attendance scheduled shifts noted as barrier achieving stable income stream per patients report,EMPLOYMENT,adverse
+Workplace injury sustained last month still impacting daily activities including ability perform essential duties required current role,EMPLOYMENT,adverse
+Career transition being considered after years spent in high-stress environment taking toll physical well-being expressed by PT,EMPLOYMENT,adverse
+Discussion surrounding reasonable accommodation requests made known employer related medical condition had positive outcome according PT feedback,EMPLOYMENT,adverse
+Job search efforts hindered language barriers experienced non-native English speaker described as frustrating situation per patient report,EMPLOYMENT,adverse
+Pt reports feeling undervalued and underpaid in current position despite years of dedicated service to company.,EMPLOYMENT,adverse
+Difficulty maintaining work-life balance due to long commute times discussed during appointment today; pt seeking advice on potential solutions.,EMPLOYMENT,adverse
+Patient experiencing chronic pain related  repetitive strain injury from job duties ; discussion around alternative employment options initiated .,EMPLOYMENT,adverse
+Financial stress resulting from recent divorce causing difficulty managing expenses while working part-time noted by patient during visit today,EMPLOYMENT,adverse
+Challenges associated with being a single parent while also holding down full-time job discussed between physician & patient,EMPLOYMENT,adverse
+"Unable find suitable employment following layoff last year, leading to ongoing financial insecurity reported by pt at this time.",EMPLOYMENT,adverse
+Discussion surrounding reasonable accommodation requests made known employer related medical condition had negative outcome according PT feedback,EMPLOYMENT,adverse
+Workplace harassment experienced female employee shared concerns about retaliation if complaint filed against supervisor per patients report,EMPLOYMENT,adverse
+Career advancement opportunities limited within organization prompting consideration external positions expressed by PT during consultation,EMPLOYMENT,adverse
+Job search efforts hindered lack access reliable internet connection described as frustrating situation per patient report,EMPLOYMENT,adverse
+Pt reports struggling maintain productivity levels required for role due mental health challenges including depression and anxiety symptoms.,EMPLOYMENT,adverse
+Difficulty securing stable income stream after multiple layoffs over past few years creating significant financial burden for family mentioned by Pt,EMPLOYMENT,adverse
+Patient recently diagnosed with disability that may impact ability continue working long-term; discussion around accommodations needed in workplace initiated.,EMPLOYMENT,adverse
+Financial hardship resulting from unexpected medical bills impacting ability cover basic living expenses reported by pt at this time,EMPLOYMENT,adverse
+Challenges associated with navigating complex healthcare system while also holding down demanding full-time job discussed between physician & patient,EMPLOYMENT,adverse
+Limited access transportation options preventing reliable attendance scheduled shifts noted as barrier achieving stable income stream per patients report,EMPLOYMENT,adverse
+Workplace bullying experienced male employee shared concerns about impact on self-esteem and overall well-being described as distressing experience according PT feedback,EMPLOYMENT,adverse
+Career transition being considered after years spent in high-stress environment taking toll physical well-being expressed by PT,EMPLOYMENT,adverse
+Difficulty finding employment due to lack of experience within desired field discussed during appointment today; pt seeking guidance on how best to approach potential employers moving forward.,EMPLOYMENT,adverse
+Pt reports feeling undervalued and underpaid in current position despite recent promotion.,EMPLOYMENT,adverse
+Workplace injury sustained last month still impacting daily activities including ability perform essential duties required current role,EMPLOYMENT,adverse
+Challenges associated with managing chronic illness while maintaining steady employment discussed between physician & patient,EMPLOYMENT,adverse
+Patient experiencing significant stress related to job loss following company downsizing; discussion around coping strategies initiated.,EMPLOYMENT,adverse
+Financial insecurity resulting from reduced hours at current position shared by pt during visit today,EMPLOYMENT,adverse
+Unable find suitable childcare arrangement while working night shift causing significant strain on family life according pt report,EMPLOYMENT,adverse
+Discussion surrounding reasonable accommodation requests made known employer related medical condition had positive outcome according PT feedback,EMPLOYMENT,adverse
+Job search efforts hindered language barriers experienced non-native English speaker described as frustrating situation per patient report,EMPLOYMENT,adverse
+Pt recently diagnosed with mental health condition that may impact ability continue working long-term; discussion around accommodations needed in workplace initiated.,EMPLOYMENT,adverse
+Difficulty securing stable income stream after multiple layoffs over past few years creating significant financial burden for family mentioned by Pt,EMPLOYMENT,adverse
+Limited access transportation options preventing reliable attendance scheduled shifts noted as barrier achieving stable income stream per patients report,EMPLOYMENT,adverse
+Workplace harassment experienced female employee shared concerns about retaliation if complaint filed against supervisor per patients report,EMPLOYMENT,adverse
+Career advancement opportunities limited within organization prompting consideration external positions expressed by PT during consultation.,EMPLOYMENT,adverse
+The patient is a software engineer for a large tech company.,EMPLOYMENT,nonadverse
+He works as an accountant at a local firm and has been with the company for over 10 years.,EMPLOYMENT,nonadverse
+She owns her own bakery and specializes in gluten-free pastries.,EMPLOYMENT,nonadverse
+The patient is currently unemployed but was previously working as an administrative assistant at a law firm before being laid off due to COVID-19 budget cuts.,EMPLOYMENT,nonadverse
+He works in construction as a project manager overseeing multiple job sites across the city.,EMPLOYMENT,nonadverse
+She runs her own small business selling handmade candles online through Etsy and other platforms,EMPLOYMENT,nonadverse
+The patient is employed by the government agency responsible for managing national parks throughout the country,EMPLOYMENT,nonadverse
+He recently started his own landscaping business after many years of experience working under another landscaper,EMPLOYMENT,nonadverse
+She teaches high school English literature courses full-time during weekdays while also tutoring students on weekends,EMPLOYMENT,nonadverse
+"The individual holds two part-time jobs: one stocking shelves overnight at Walmart, another delivering newspapers early mornings",EMPLOYMENT,nonadverse
+He’s worked in retail sales since graduating college five years ago; he now manages department store location specializing home appliances,EMPLOYMENT,nonadverse
+She’s self-employed running dog walking service catering pet owners living within three-mile radius from her house,EMPLOYMENT,nonadverse
+Patient retired last year after spending decades serving community police officer,EMPLOYMENT,nonadverse
+Works remotely writing content marketing materials social media campaigns clients located all around world,EMPLOYMENT,nonadverse
+Prior to retirement she spent most of career teaching elementary education classes public schools district,EMPLOYMENT,nonadverse
+Currently serves active duty military member stationed overseas,EMPLOYMENT,nonadverse
+Manages family-owned restaurant that has been operating successfully more than thirty-five years,EMPLOYMENT,nonadverse
+Serves executive director non-profit organization dedicated providing resources homeless population downtown area,EMPLOYMENT,nonadverse
+Her work involves conducting research studies related mental health disorders funded by National Institutes Health (NIH),EMPLOYMENT,nonadverse
+Has held position senior vice president finance major corporation headquartered New York City,EMPLOYMENT,nonadverse
+"Patient works as an electrician for local utility company, responsible maintaining power lines throughout surrounding communities",EMPLOYMENT,nonadverse
+She is a freelance graphic designer who specializes in creating logos and branding materials for small businesses.,EMPLOYMENT,nonadverse
+The patient has been working at the same law firm since graduating from law school over 20 years ago.,EMPLOYMENT,nonadverse
+He owns his own plumbing business and has been serving the community for over a decade.,EMPLOYMENT,nonadverse
+She’s currently employed by major pharmaceutical company conducting clinical trials new medications treating various diseases,EMPLOYMENT,nonadverse
+Works full-time job managing social media accounts large fashion retailer while also running her own personal blog on side,EMPLOYMENT,nonadverse
+Prior to retirement she was CEO of Fortune 500 corporation leading team more than ten thousand employees worldwide,EMPLOYMENT,nonadverse
+Currently serves active duty member United States Air Force stationed overseas,EMPLOYMENT,nonadverse
+Manages family-owned auto repair shop that services vehicles within fifty-mile radius,EMPLOYMENT,nonadverse
+Serves executive director non-profit organization dedicated providing resources education underprivileged youth inner city schools,EMPLOYMENT,nonadverse
+Her work involves developing software applications used by healthcare providers across country,EMPLOYMENT,nonadverse
+Has held position senior vice president marketing communications global consulting firm headquartered London,EMPLOYMENT,nonadverse
+Patient works as firefighter responding emergency calls throughout city,EMPLOYMENT,nonadverse
+He's worked in construction management field past fifteen years overseeing projects ranging size from single-family homes commercial buildings,EMPLOYMENT,nonadverse
+Owns operates successful hair salon located downtown area catering clientele all ages backgrounds,EMPLOYMENT,nonadverse
+Teaches music lessons part-time after completing Master's degree Music Education last year,EMPLOYMENT,nonadverse
+Retired military veteran served multiple tours Iraq Afghanistan before returning civilian life,EMPLOYMENT,nonadverse
+Working retail sales associate popular clothing store chain specializing outdoor gear equipment,EMPLOYMENT,nonadverse
+Freelance writer editor contributing articles publications covering topics such politics culture lifestyle trends,EMPLOYMENT,nonadverse
+Licensed therapist practicing private practice helping patients manage anxiety depression other mental health concerns,EMPLOYMENT,nonadverse
+Full time employee accounting department mid-sized manufacturing facility,EMPLOYMENT,nonadverse
+Owner operator food truck selling gourmet grilled cheese sandwiches around town,EMPLOYMENT,nonadverse
+Partner prestigious law firm specializing corporate mergers acquisitions,EMPLOYMENT,nonadverse
+Technical support specialist providing assistance customers using software company's products,EMPLOYMENT,nonadverse
+Traveling sales representative visiting clients across country promoting new line of medical equipment,EMPLOYMENT,nonadverse
+Sales manager overseeing team representatives selling industrial supplies throughout region,EMPLOYMENT,nonadverse
+Owner small independent bookstore that specializes rare and hard-to-find titles,EMPLOYMENT,nonadverse
+Teacher assistant working with special needs students elementary school district,EMPLOYMENT,nonadverse
+Financial analyst for major investment bank advising high net worth individuals on wealth management strategies,EMPLOYMENT,nonadverse
+Police officer patrolling streets city maintaining public safety,EMPLOYMENT,nonadverse
+Restaurant server at popular Italian restaurant downtown area catering tourists locals alike,EMPLOYMENT,nonadverse
+Nurse practitioner working urgent care clinic treating patients variety illnesses injuries,EMPLOYMENT,nonadverse
+Mechanic repairing cars trucks local auto repair shop servicing community over twenty years,EMPLOYMENT,nonadverse
+Software developer creating applications used by businesses around world improving efficiency productivity,EMPLOYMENT,nonadverse
+Dental hygienist cleaning teeth performing routine check-ups dental office,EMPLOYMENT,nonadverse
+Real estate agent helping buyers sellers navigate competitive housing market in metropolitan area,EMPLOYMENT,nonadverse
+Chef owner upscale French bistro located trendy neighborhood serving gourmet cuisine,EMPLOYMENT,nonadverse
+Human resources coordinator managing employee benefits payroll administration mid-sized corporation,EMPLOYMENT,nonadverse
+Veterinary technician assisting veterinarian caring animals large small animal clinics,EMPLOYMENT,nonadverse
+Marketing director developing campaigns promotions retail chain stores nationwide,EMPLOYMENT,nonadverse
+Personal trainer leading fitness classes gym helping clients achieve health wellness goals,EMPLOYMENT,nonadverse
+Law enforcement officer responsible enforcing laws regulations state park system,EMPLOYMENT,nonadverse
+Entrepreneur owning several successful businesses including boutique hotel luxury spa fine dining establishment,EMPLOYMENT,nonadverse
+Business consultant advising companies strategy planning operations improvement initiatives,EMPLOYMENT,nonadverse
+Account executive advertising agency managing accounts various industries such healthcare finance technology,EMPLOYMENT,nonadverse
+Physical therapist rehabilitating patients recovering from surgery injury hospital setting,EMPLOYMENT,nonadverse
+Executive chef running kitchen Michelin-starred restaurant known innovative dishes techniques,EMPLOYMENT,nonadverse
+Event planner coordinating weddings other celebrations private events for affluent clientele,EMPLOYMENT,nonadverse
+Architect designing buildings structures ranging size complexity residential commercial projects,EMPLOYMENT,nonadverse
+Financial planner advising clients investment strategies retirement planning wealth management,EMPLOYMENT,nonadverse
+Social worker providing counseling support services individuals families struggling mental health issues,EMPLOYMENT,nonadverse
+Public relations specialist managing media communications reputation large corporation,EMPLOYMENT,nonadverse
+Creative director overseeing design branding initiatives advertising agency,EMPLOYMENT,nonadverse
+Pharmacist dispensing medications patients hospital retail settings ensuring proper dosages,EMPLOYMENT,nonadverse
+Hair stylist working upscale salon catering high-end clientele celebrities politicians business executives,EMPLOYMENT,nonadverse
+Travel agent booking vacations trips around world for clients seeking luxury experiences,EMPLOYMENT,nonadverse
+IT consultant implementing software systems improving efficiency productivity businesses,EMPLOYMENT,nonadverse
+Personal assistant handling administrative tasks scheduling appointments running errands busy executive,EMPLOYMENT,nonadverse
+Digital marketer developing online campaigns social media content promoting products services,EMPLOYMENT,nonadverse
+Psychologist treating patients variety mental health disorders private practice setting,EMPLOYMENT,nonadverse
+Restaurant owner operating successful chain eateries serving cuisine inspired cultures across globe,EMPLOYMENT,nonadverse
+Musician performing concerts recording albums various genres including rock jazz classical music,EMPLOYMENT,nonadverse
+Chief financial officer leading finance department major corporation responsible budgeting forecasting,EMPLOYMENT,nonadverse
+Software engineer designing coding applications used by businesses worldwide,EMPLOYMENT,nonadverse
+Real estate developer constructing buildings complexes residential commercial purposes,EMPLOYMENT,nonadverse
+Teacher instructing students subjects ranging from math science language arts to physical education,EMPLOYMENT,nonadverse
+Veterinarian diagnosing treating animals veterinary clinic specializing small animal care,EMPLOYMENT,nonadverse
+Business analyst analyzing data trends making recommendations improve operations profitability,EMPLOYMENT,nonadverse
+Occupational therapist helping patients regain independence perform daily activities after injury illness,EMPLOYMENT,nonadverse
+Artist creating paintings sculptures installations exploring themes such as identity culture politics,EMPLOYMENT,nonadverse
+Investment banker structuring financing deals mergers acquisitions raising capital companies,EMPLOYMENT,nonadverse
+Nutritionist advising individuals groups healthy eating habits lifestyle choices,EMPLOYMENT,nonadverse
+Technical writer producing manuals guides technical documentation explaining complex concepts processes,EMPLOYMENT,nonadverse
+Management consultant advising organizations strategy organizational structure change management,EMPLOYMENT,nonadverse
+Healthcare administrator managing operations healthcare facilities hospitals clinics,EMPLOYMENT,nonadverse
+Graphic artist designing logos websites other visual materials marketing promotions,EMPLOYMENT,nonadverse
+Environmental scientist researching environmental issues developing solutions protect natural resources,EMPLOYMENT,nonadverse
+Political analyst providing commentary analysis political events policies news outlets,EMPLOYMENT,nonadverse
+Criminal defense attorney defending clients accused crimes ranging from misdemeanors to felonies,EMPLOYMENT,nonadverse
+Fashion designer creating clothing accessories collections sold high-end retailers around world.,EMPLOYMENT,nonadverse
+Patient reports feeling lonely and isolated.,SUPPORT,adverse
+The patient expresses concern about not having anyone to help them after surgery.,SUPPORT,adverse
+Lack of mobility prevents the patient from participating in activities that would provide social support.,SUPPORT,adverse
+The patient is unsure how to handle health issues due to a lack of familial involvement.,SUPPORT,adverse
+Patient reports feeling like they have nobody to turn for advice or assistance with daily tasks,SUPPORT,adverse
+The absence of friends and family members has left the patient without any emotional support system,SUPPORT,adverse
+Patient feels socially disconnected due to language barriers,SUPPORT,adverse
+Patients living alone often report feelings of isolation which can lead depression,SUPPORT,adverse
+Lack of transportation makes it difficult for patients attend appointments or participate in community events,SUPPORT,adverse
+Family conflicts may prevent some individuals from receiving adequate care at home,SUPPORT,adverse
+A history trauma may make it hard for an individual trust others enough seek out help when needed,SUPPORT,adverse
+Some people feel uncomfortable asking others favors because they don't want be seen as burdensome,SUPPORT,adverse
+Social anxiety disorder can cause significant distress around other people leading avoidant behaviors,SUPPORT,adverse
+Unemployment or retirement can contribute loss identity and decreased opportunities interact with peers,SUPPORT,adverse
+Cultural differences between healthcare providers and patients could hinder communication necessary build trusting relationships,SUPPORT,adverse
+"Relocation away from familiar surroundings such as friends, family, places worship etc.,can leave someone feeling lost",SUPPORT,adverse
+Chronic illness/disability/mental health conditions often require long-term management which means ongoing need supportive network,SUPPORT,adverse
+Moving frequently (e.g military families)may result difficulty establishing meaningful connections within communities,SUPPORT,adverse
+Homelessness leaves many vulnerable populations without access basic needs including food shelter medical care but also human connection,SUPPORT,adverse
+Incarceration separates individuals loved ones making re-entry into society more challenging,SUPPORT,adverse
+Addiction disorders commonly co-occur mental illnesses leaving patients without a stable support system to rely on,SUPPORT,adverse
+Aging can lead social isolation as friends and family members pass away or move into care facilities,SUPPORT,adverse
+"Financial constraints may limit opportunities for socialization such as dining out, attending events etc.",SUPPORT,adverse
+Lack of education could prevent individuals from understanding the importance of building supportive relationships,SUPPORT,adverse
+Patients with chronic pain often experience depression which can further isolate them from others,SUPPORT,adverse
+Mental health stigma prevents some people seeking help they need leading increased feelings loneliness,SUPPORT,adverse
+Caregivers who are responsible for loved ones may feel overwhelmed and unsupported themselves,SUPPORT,adverse
+Some cultures place more emphasis on independence than interdependence making it difficult ask assistance,SUPPORT,adverse
+The patient reports feeling like nobody understands what they're going through.,SUPPORT,adverse
+Patient feels that their illness is causing them to be a burden on those around them,SUPPORT,adverse
+The patient expresses concern about not having anyone to talk to about their condition.,SUPPORT,adverse
+Patient has difficulty participating in activities due lack mobility resulting decreased interactions with peers,SUPPORT,adverse
+There is no one available assist this person daily tasks leaving feeling overwhelmed,SUPPORT,adverse
+Patients living alone often report fear falling becoming injured without anyone nearby help,SUPPORT,adverse
+Social media use among older adults remains relatively low limiting potential connections online,SUPPORT,adverse
+Language barriers make communication between healthcare providers and patients challenging,SUPPORT,adverse
+Relocation frequently (e.g military families)may result difficulty establishing meaningful connections within communities,SUPPORT,adverse
+Homelessness leaves many vulnerable populations without access basic needs including food shelter medical care but also human connection,SUPPORT,adverse
+Incarceration separates individuals loved ones making re-entry into society more challenging,SUPPORT,adverse
+Addiction disorders commonly co-occur mental illnesses leaving patients without a stable support system to rely on,SUPPORT,adverse
+Aging can lead social isolation as friends and family members pass away or move into care facilities,SUPPORT,adverse
+"Financial constraints may limit opportunities for socialization such as dining out, attending events etc.",SUPPORT,adverse
+Lack of education could prevent individuals from understanding the importance of building supportive relationships,SUPPORT,adverse
+Patients with chronic pain often experience depression which can further isolate them from others,SUPPORT,adverse
+Mental health stigma prevents some people seeking help they need leading increased feelings loneliness,SUPPORT,adverse
+Caregivers who are responsible for loved ones may feel overwhelmed and unsupported themselves,SUPPORT,adverse
+Some cultures place more emphasis on independence than interdependence making it difficult ask assistance,SUPPORT,adverse
+The patient reports feeling like nobody understands what they're going through.,SUPPORT,adverse
+Patient feels that their illness is causing them to be a burden on those around them,SUPPORT,adverse
+The patient expresses concern about not having anyone to talk to about their condition.,SUPPORT,adverse
+Patient has difficulty participating in activities due lack mobility resulting decreased interactions with peers,SUPPORT,adverse
+There is no one available assist this person daily tasks leaving feeling overwhelmed,SUPPORT,adverse
+Patients living alone often report fear falling becoming injured without anyone nearby help,SUPPORT,adverse
+Social media use among older adults remains relatively low limiting potential connections online,SUPPORT,adverse
+Language barriers make communication between healthcare providers and patients challenging,SUPPORT,adverse
+Relocation frequently (e.g military families)may result difficulty establishing meaningful connections within communities,SUPPORT,adverse
+Homelessness leaves many vulnerable populations without access basic needs including food shelter medical care but also human connection,SUPPORT,adverse
+Incarceration separates individuals loved ones making re-entry into society more challenging,SUPPORT,adverse
+Addiction disorders commonly co-occur mental illnesses leaving patients without a stable support system to rely on,SUPPORT,adverse
+Aging can lead social isolation as friends and family members pass away or move into care facilities,SUPPORT,adverse
+"Financial constraints may limit opportunities for socialization such as dining out, attending events etc.",SUPPORT,adverse
+Lack of education could prevent individuals from understanding the importance of building supportive relationships,SUPPORT,adverse
+Patients with chronic pain often experience depression which can further isolate them from others,SUPPORT,adverse
+Mental health stigma prevents some people seeking help they need leading increased feelings loneliness,SUPPORT,adverse
+Caregivers who are responsible for loved ones may feel overwhelmed and unsupported themselves,SUPPORT,adverse
+Some cultures place more emphasis on independence than interdependence making it difficult ask assistance,SUPPORT,adverse
+The patient reports feeling like nobody understands what they're going through.,SUPPORT,adverse
+Patient feels that their illness is causing them to be a burden on those around them,SUPPORT,adverse
+The patient expresses concern about not having anyone to talk to about their condition.,SUPPORT,adverse
+Patient has difficulty participating in activities due lack mobility resulting decreased interactions with peers,SUPPORT,adverse
+There is no one available assist this person daily tasks leaving feeling overwhelmed,SUPPORT,adverse
+Patients living alone often report fear falling becoming injured without anyone nearby help,SUPPORT,adverse
+Social media use among older adults remains relatively low limiting potential connections online,SUPPORT,adverse
+Language barriers make communication between healthcare providers and patients challenging,SUPPORT,adverse
+Relocation frequently (e.g military families)may result difficulty establishing meaningful connections within communities,SUPPORT,adverse
+Homelessness leaves many vulnerable populations without access basic needs including food shelter medical care but also human connection,SUPPORT,adverse
+Incarceration separates individuals loved ones making re-entry into society more challenging,SUPPORT,adverse
+Addiction disorders commonly co-occur mental illnesses leaving patients without a stable support system to rely on,SUPPORT,adverse
+Aging can lead social isolation as friends and family members pass away or move into care facilities,SUPPORT,adverse
+"Financial constraints may limit opportunities for socialization such as dining out, attending events etc.",SUPPORT,adverse
+Lack of education could prevent individuals from understanding the importance of building supportive relationships,SUPPORT,adverse
+Patients with chronic pain often experience depression which can further isolate them from others,SUPPORT,adverse
+Mental health stigma prevents some people seeking help they need leading increased feelings loneliness,SUPPORT,adverse
+Caregivers who are responsible for loved ones may feel overwhelmed and unsupported themselves,SUPPORT,adverse
+Some cultures place more emphasis on independence than interdependence making it difficult ask assistance,SUPPORT,adverse
+The patient reports feeling like nobody understands what they're going through.,SUPPORT,adverse
+Patient feels that their illness is causing them to be a burden on those around them,SUPPORT,adverse
+The patient expresses concern about not having anyone to talk to about their condition.,SUPPORT,adverse
+Patient has difficulty participating in activities due lack mobility resulting decreased interactions with peers,SUPPORT,adverse
+There is no one available assist this person daily tasks leaving feeling overwhelmed,SUPPORT,adverse
+Patients living alone often report fear falling becoming injured without anyone nearby help,SUPPORT,adverse
+Social media use among older adults remains relatively low limiting potential connections online,SUPPORT,adverse
+Language barriers make communication between healthcare providers and patients challenging,SUPPORT,adverse
+Relocation frequently (e.g military families)may result difficulty establishing meaningful connections within communities,SUPPORT,adverse
+Homelessness leaves many vulnerable populations without access basic needs including food shelter medical care but also human connection,SUPPORT,adverse
+Incarceration separates individuals loved ones making re-entry into society more challenging,SUPPORT,adverse
+Addiction disorders commonly co-occur mental illnesses leaving patients without a stable support system to rely on,SUPPORT,adverse
+Aging can lead social isolation as friends and family members pass away or move into care facilities,SUPPORT,adverse
+"Financial constraints may limit opportunities for socialization such as dining out, attending events etc.",SUPPORT,adverse
+Lack of education could prevent individuals from understanding the importance of building supportive relationships.,SUPPORT,adverse
+Patient has a strong network of family members who provide emotional and financial support.,SUPPORT,nonadverse
+Spouse accompanies pt to all medical appointments and provides transportation.,SUPPORT,nonadverse
+Daughter helps with grocery shopping and meal preparation so that pt can focus on recovery.,SUPPORT,nonadverse
+Friend visits regularly to provide companionship during hospital stays.,SUPPORT,nonadverse
+Neighbor checks in daily to ensure medication is being taken correctly as prescribed by physician,SUPPORT,nonadverse
+Pt attends weekly support group meetings for individuals living with chronic illness or disability,SUPPORT,nonadverse
+Family member takes care of children while parent undergoes treatment,SUPPORT,nonadverse
+Partner assists with physical therapy exercises at home,SUPPORT,nonadverse
+Sibling provides encouragement through regular phone calls,SUPPORT,nonadverse
+Parents attend counseling sessions together for child’s mental health concerns,SUPPORT,nonadverse
+Pt receives assistance from community outreach program providing meals during chemotherapy treatments,SUPPORT,nonadverse
+Spouse drives patient long distances for specialist appointments outside the city,SUPPORT,nonadverse
+Neighbor mows lawn once a week when pt unable due to mobility issues,SUPPORT,nonadverse
+Childcare provider offers flexible scheduling options accommodating parents’ work schedules,SUPPORT,nonadverse
+Coworker covers shifts when employee needs time off work due to personal emergency,SUPPORT,nonadverse
+Religious leader visits hospitalized patients offering spiritual guidance,SUPPORT,nonadverse
+Volunteer organization arranges rideshare service transporting pts without access to reliable transportation,SUPPORT,nonadverse
+Grandchild spends weekends visiting grandparent in assisted living facility,SUPPORT,nonadverse
+Close friend organizes fundraiser event raising money towards medical expenses,SUPPORT,nonadverse
+Supportive coworker listens attentively allowing colleague opportunity vent frustrations regarding difficult diagnosis,SUPPORT,nonadverse
+Distant relative sends thoughtful cards expressing well wishes throughout course of treatment,SUPPORT,nonadverse
+Former classmate reaches out via social media offering words encouragement after seeing post about recent surgery,SUPPORT,nonadverse
+Local church congregation prepares meals delivering them directly families facing hardship,SUPPORT,nonadverse
+Long-time neighbor drops off groceries every other day ensuring elderly resident has enough food supplies,SUPPORT,nonadverse
+Community center hosts free exercise classes for individuals with mobility issues encouraging socialization and physical activity,SUPPORT,nonadverse
+Parents attend school meetings advocating for child’s special education needs,SUPPORT,nonadverse
+Sibling accompanies pt to chemotherapy treatments providing emotional support throughout process,SUPPORT,nonadverse
+Spouse helps manage finances during period of unemployment due to illness,SUPPORT,nonadverse
+Close friend takes care of pet while owner is hospitalized,SUPPORT,nonadverse
+Neighbor offers assistance with household chores such as laundry or cleaning when pt unable due to disability,SUPPORT,nonadverse
+Pt attends weekly art therapy sessions offering creative outlet and stress relief,SUPPORT,nonadverse
+Family member provides respite care allowing primary caregiver time off from daily responsibilities,SUPPORT,nonadverse
+Partner assists in meal planning ensuring healthy diet is maintained during recovery,SUPPORT,nonadverse
+Childcare provider accommodates dietary restrictions preparing meals according individual needs,SUPPORT,nonadverse
+Coworker organizes fundraiser event raising money towards medical research related pts diagnosis,SUPPORT,nonadverse
+Religious leader visits homebound patients offering communion services,SUPPORT,nonadverse
+Volunteer organization arranges transportation service transporting elderly residents without access reliable transportation,SUPPORT,nonadverse
+Grandchild teaches grandparent how use technology stay connected family members living far away,SUPPORT,nonadverse
+Supportive coworker covers shifts when colleague requires extended leave work due personal emergency,SUPPORT,nonadverse
+Distant relative sends thoughtful gift basket filled comfort items after hearing about recent hospitalization,SUPPORT,nonadverse
+Local church congregation hosts monthly potluck dinners bringing community together over shared meal,SUPPORT,nonadverse
+Long-time neighbor shovels snow driveway every winter ensuring resident has safe passage into home,SUPPORT,nonadverse
+Community center offers free mental health counseling services promoting overall wellness among local population,SUPPORT,nonadverse
+Parents advocate on behalf adult child who experiences discrimination at workplace because chronic condition,SUPPORT,nonadverse
+Sibling coordinates fundraising campaign online platform raising funds towards experimental treatment options not covered by insurance,SUPPORT,nonadverse
+Spouse drives patient long distances specialist appointments outside the state,SUPPORT,nonadverse
+Neighbor checks in regularly via phone calls or text messages making sure elderly resident has everything they need,SUPPORT,nonadverse
+Pt participates in group fitness class designed specifically seniors promoting physical activity and socialization,SUPPORT,nonadverse
+Family member provides emotional support during end-of-life care for loved one,SUPPORT,nonadverse
+"Partner assists with daily living activities such as bathing, dressing, or toileting when pt unable due to disability",SUPPORT,nonadverse
+Childcare provider offers after-school tutoring services helping child stay on track academically while parent undergoes treatment,SUPPORT,nonadverse
+Coworker covers shifts without hesitation colleague requires extended leave work due personal emergency,SUPPORT,nonadverse
+Religious leader visits hospitalized patients offering prayer and comfort during difficult times,SUPPORT,nonadverse
+Volunteer organization arranges meal delivery service transporting hot meals directly individuals’ homes,SUPPORT,nonadverse
+Grandchild spends time reading books aloud grandparent who has difficulty seeing,SUPPORT,nonadverse
+Supportive coworker listens attentively allowing colleague opportunity vent frustrations regarding workplace discrimination,SUPPORT,nonadverse
+Distant relative sends thoughtful gift card covering cost of medical expenses not covered by insurance,SUPPORT,nonadverse
+Local church congregation hosts clothing drive collecting gently used items donate local shelter,SUPPORT,nonadverse
+Long-time neighbor picks up mail every day ensuring resident doesn’t miss important correspondence,SUPPORT,nonadverse
+Community center organizes community garden project bringing residents together over shared interest in gardening,SUPPORT,nonadverse
+Parents attend counseling sessions together addressing marital issues related pts diagnosis,SUPPORT,nonadverse
+Sibling accompanies pt to radiation treatments providing transportation and emotional support throughout process,SUPPORT,nonadverse
+Spouse helps manage household finances budgeting for unexpected medical expenses,SUPPORT,nonadverse
+Neighbor takes dog walking regularly making sure pet gets enough exercise,SUPPORT,nonadverse
+Pt attends monthly book club meeting discussing literature with other members of the community,SUPPORT,nonadverse
+Family member coordinates home health care services arranging regular check-ins from nurse or therapist,SUPPORT,nonadverse
+Partner prepares healthy meals according dietary restrictions ensuring proper nutrition is maintained during recovery,SUPPORT,nonadverse
+Childcare provider accommodates flexible scheduling options accommodating parents’ changing needs,SUPPORT,nonadverse
+Coworker organizes bake sale raising funds towards research efforts aimed at finding cure for disease affecting pts life,SUPPORT,nonadverse
+Religious leader visits hospice patients offering spiritual guidance and comfort during end-of-life care,SUPPORT,nonadverse
+Volunteer organization arranges home repair service fixing up elderly resident’s house making it safer to live in,SUPPORT,nonadverse
+Grandchild teaches grandparent how use social media stay connected family members living far away,SUPPORT,nonadverse
+Supportive coworker covers shifts when colleague needs time off work due personal emergency,SUPPORT,nonadverse
+Distant relative sends thoughtful care package filled with favorite snacks and activities after hearing about recent hospitalization,SUPPORT,nonadverse
+Local church congregation hosts community clean-up event picking up trash around neighborhood,SUPPORT,nonadverse
+Long-time neighbor brings over homemade meals every week ensuring pt has enough food supplies,SUPPORT,nonadverse
+Community center offers free computer classes teaching basic skills necessary for job search or communication,SUPPORT,nonadverse
+Parents attend school meetings advocating for child’s special education needs related pts diagnosis,SUPPORT,nonadverse
+Sibling provides transportation to medical appointments when primary caregiver is unavailable,SUPPORT,nonadverse
+Spouse helps manage medication schedule ensuring correct dosages are taken each day,SUPPORT,nonadverse
+Neighbor checks on pet regularly while owner is hospitalized,SUPPORT,nonadverse
+Pt attends weekly yoga class promoting relaxation and stress relief,SUPPORT,nonadverse
+Family member takes children out fun activities giving parent opportunity rest at home,SUPPORT,nonadverse
+Partner assists with mobility devices such as wheelchair or walker helping pt navigate everyday life,SUPPORT,nonadverse
+Childcare provider offers flexible scheduling options accommodating parents’ changing schedules,SUPPORT,nonadverse
+Coworker organizes charity walk raising funds towards research efforts aimed at finding cure for disease affecting pts life,SUPPORT,nonadverse
+Religious leader visits patients in long-term care facilities offering prayer services,SUPPORT,nonadverse
+Volunteer organization arranges respite care allowing primary caregiver time off from daily responsibilities,SUPPORT,nonadverse
+Grandchild spends weekends visiting grandparents who reside assisted living facility,SUPPORT,nonadverse
+Supportive coworker listens attentively allowing colleague opportunity vent frustrations regarding workplace safety concerns,SUPPORT,nonadverse
+Distant relative sends thoughtful bouquet of flowers brightening patient's room during hospital stay,SUPPORT,nonadverse
+Local church congregation hosts monthly game night bringing community together over shared interest in board games,SUPPORT,nonadverse
+Long-time neighbor helps with yard work such as raking leaves or planting flowers when pt unable due to disability,SUPPORT,nonadverse
+Community center offers free language classes teaching basic skills necessary for communication among diverse population,SUPPORT,nonadverse
+Parents attend counseling sessions together addressing emotional toll of pts diagnosis,SUPPORT,nonadverse
+Sibling coordinates meal train service arranging regular delivery of food from friends and family members,SUPPORT,nonadverse
+Spouse drives patient long distances specialist appointments outside the country,SUPPORT,nonadverse
+Neighbor takes care of plants while owner is hospitalized,SUPPORT,nonadverse
+Pt participates in weekly knitting group promoting creativity and socialization,SUPPORT,nonadverse
+Family member provides transportation to medical appointments ensuring timely arrival.,SUPPORT,nonadverse

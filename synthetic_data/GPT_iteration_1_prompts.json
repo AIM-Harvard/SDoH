@@ -1,0 +1,98 @@
+[
+    {"prompt_id":"p01_HOUSING-adverse_guidelines", 
+    "prompt":[
+            {"role": "system", "content": "You are a physician."},
+            {"role": "user", "content": "Examples of housing issues for patients: 1. Pt came from Assisted Living Corp. and complained about rent increase.\n2. “Pt came from Assisted Living Corp. and complained about rent increase.\n3. He says he is worried about making his mortgage payments.\n4. Pt is staying with a friend and does not have a mailing address.\n5. Pt currently staying at Barbara McInnis shelter.\n5. Pt is staying at the Motel for the time being, while on the waitlist for the Hope Lodge."},
+            {"role": "assistant", "content": "Ok I will remember that."},
+            {"role": "user", "content": "Imagine you are a physician. Please give me 58 sentences from your clinic notes about various patient's housing issues similar to the examples."}
+        ]
+    },
+    {"prompt_id":"p01_TRANSPORTATION-adverse_guidelines", 
+    "prompt":[
+            {"role": "system", "content": "You are a physician."},
+            {"role": "user", "content": "Examples of transportation issues for patients: 1. Pt lives 30mi away from hospital and and complains about needing to transfer three times each way.\n2. Pt missed appointment because her sister couldn't drive her today.\n3. Pt is worried about making appointments because the metro is under construction this month.\n4. Pt is worried about the two hour drive.\n5. She is having trouble lying flat for treatment, she thinks it is because her back hurts after the two hour car ride into clinic.\n6. Pt felt that coming to Los Angeles was hard for them and asked to be referred to Santa Cruz.\n7. He is having trouble getting to and from the hospital."},
+            {"role": "assistant", "content": "Ok I will remember that."},
+            {"role": "user", "content": "Imagine you are a physician. Please give me 62 sentences from your clinic notes about various patient's transportation issues similar to the examples."}
+        ]
+    },
+    {"prompt_id":"p01_RELATIONSHIP-adverse_guidelines", 
+    "prompt":[
+            {"role": "system", "content": "You are a physician."},
+            {"role": "user", "content": "Examples of divorced, widowed, single, separated issues for patients: 1. Pt is meeting ex-wife at appointment.\n2. Pt is married but separated.\n3. Pt spouse passed away in October of last year.\n4. Pt is single.\n5. Pt arrived with his girlfriend, and his ex-wife will attend with him at next week’s session.\n6. Pt has 3 kids from former marriage"},
+            {"role": "assistant", "content": "Ok I will remember that."},
+            {"role": "user", "content": "Imagine you are a physician. Please give me 14 sentences from your clinic notes about various patients being divorced, widowed, single, or separated issues similar to the examples."}
+        ]
+    },
+    {"prompt_id":"p01_RELATIONSHIP-nonadverse_guidelines", 
+    "prompt":[
+            {"role": "system", "content": "You are a physician."},
+            {"role": "user", "content": "Examples of married/partnered sentences for patients: 1. Pt and her husband came into my office today.\n2. Pt and her fiancée came into my office today.\n3. He is here with his boyfriend.\n4. He is married to Sheila."},
+            {"role": "assistant", "content": "Ok I will remember that."},
+            {"role": "user", "content": "Imagine you are a physician. Please give me 31 sentences from your clinic notes about various patients being married / partnered similar to the examples."}
+        ]
+    },
+    {"prompt_id":"p01_CAREGIVER-adverse_guidelines", 
+    "prompt":[
+            {"role": "system", "content": "You are a physician."},
+            {"role": "user", "content": "Examples of patients being caregivers for other people: 1. Patient's husband is also receiving treatment, and pt is the primary caregiver\n2. Patient takes care of her elderly mother.\n3. Pt has to drive her daughter to kindergarten on weekdays.\n4. Patient stays home to care for his family.\n5. Pt makes dinner for her neighbor once a week."},
+            {"role": "assistant", "content": "Ok I will remember that."},
+            {"role": "user", "content": "Imagine you are a physician. Please give me 36 sentences from your clinic notes about various patients being a caregiver similar to the examples."}
+        ]
+    },
+    {"prompt_id":"p01_PARENT-adverse_guidelines", 
+    "prompt":[
+            {"role": "system", "content": "You are a physician."},
+            {"role": "user", "content": "Examples of parental status for patients: 1. Pt has 2 children ages 9 and 13.\n 2. Pt has 2 teenage children.\n3. Pt was seen today with his daughter Angela, 3 y/o for a routine checkup."},
+            {"role": "assistant", "content": "Ok I will remember that."},
+            {"role": "user", "content": "Imagine you are a physician. Please give me 3 sentences from your clinic notes about various patients being a parent to minors similar to the examples."}
+        ]
+    },
+    {"prompt_id":"p01_EDUCATION-adverse_guidelines", 
+    "prompt":[
+            {"role": "system", "content": "You are a physician."},
+            {"role": "user", "content": "Examples of education issues for patients: 1. Patient's mother expressed concern that pt won't go back to get high school diploma."},
+            {"role": "assistant", "content": "Ok I will remember that."},
+            {"role": "user", "content": "Imagine you are a physician. Please give me 90 sentences from your clinic notes about various patient's lack of education similar to the examples."}
+        ]
+    },
+    {"prompt_id":"p01_EDUCATION-nonadverse_guidelines", 
+    "prompt":[
+            {"role": "system", "content": "You are a physician."},
+            {"role": "user", "content": "Examples of education sentences for patients: 1. Patient just graduated from TownVille HS this past June.\n2. Pt recently dropped out of Cool University.\n3. Pt graduated with their BA this May.\n4. Pt graduated with their MA this May.\n5. Pt has a doctorate in economics and is currently working as a professor."},
+            {"role": "assistant", "content": "Ok I will remember that."},
+            {"role": "user", "content": "Imagine you are a physician. Please give me 42 sentences from your clinic notes about various patient's education similar to the examples."}
+        ]
+    },
+    {"prompt_id":"p01_EMPLOYMENT-adverse_guidelines", 
+    "prompt":[
+            {"role": "system", "content": "You are a physician."},
+            {"role": "user", "content": "Examples of employment issues for patients: 1. Pt works part-time at Jim's Fish and is struggling to pay rent.\n2. Pt has been living off of unemployment for the past 2 months.\n3. Used to be a car mechanic, but he has been on disability for the past 2 years since his diagnosis.\n4. He is currently on disability and is also occasionally working as an Uber driver to help cover the bills."},
+            {"role": "assistant", "content": "Ok I will remember that."},
+            {"role": "user", "content": "Imagine you are a physician. Please give me 48 sentences from your clinic notes about various patient's employment issues similar to the examples."}
+        ]
+    },
+    {"prompt_id":"p01_EMPLOYMENT-nonadverse_guidelines", 
+    "prompt":[
+            {"role": "system", "content": "You are a physician."},
+            {"role": "user", "content": "Examples of employment sentences for patients: 1. Pt works as an electrician in Rockland.\n2. Pt is a 75yr old retiree.\n3. Pt is attending Cool University full time.\n4. Pt is a semi-retired marketing consultant."},
+            {"role": "assistant", "content": "Ok I will remember that."},
+            {"role": "user", "content": "Imagine you are a physician. Please give me 9 sentences from your clinic notes about various patient's employment similar to the examples."}
+        ]
+    },
+    {"prompt_id":"p01_SUPPORT-adverse_guidelines", 
+    "prompt":[
+            {"role": "system", "content": "You are a physician."},
+            {"role": "user", "content": "Examples of social support issues for patients: 1. Pt lives alone.\n2. Pt is struggling to find someone to watch his cat on the days he has to come for treatment."},
+            {"role": "assistant", "content": "Ok I will remember that."},
+            {"role": "user", "content": "Imagine you are a physician. Please give me 30 sentences from your clinic notes about various patient's lack of social support similar to the examples."}
+        ]
+    },
+    {"prompt_id":"p01_SUPPORT-nonadverse_guidelines", 
+    "prompt":[
+            {"role": "system", "content": "You are a physician."},
+            {"role": "user", "content": "Examples of social support sentences for patients: 1. Here today is Pt, her daughter, and supportive wife.\n2. Pt is living with his parents during treatment, while his neighbors watch his cat.\n3. Pt had to borrow money from her friend to catch the bus today.\n4. Pt is currently living with nephew while receiving treatment."},
+            {"role": "assistant", "content": "Ok I will remember that."},
+            {"role": "user", "content": "Imagine you are a physician. Please give me 22 sentences from your clinic notes about various patient's social support similar to the examples."}
+        ]
+    }
+]
