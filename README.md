@@ -51,7 +51,7 @@ A comparison of model performance on a human-validated subset of synthetic data 
 ## External Links
 
 - arXiv preprint: https://arxiv.org/abs/2308.06354
-- A PhysioNet release of our annotated MIMIC-III courpus: `[TBD]`
+- A PhysioNet release of our annotated MIMIC-III courpus: https://physionet.org/content/annotation-dataset-sdoh/1.0.0/
 - Huggingface dataset version of SHADR: https://huggingface.co/datasets/m720/SHADR
 
 ---
