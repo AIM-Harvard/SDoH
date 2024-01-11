@@ -57,13 +57,12 @@ A comparison of model performance on a human-validated subset of synthetic data 
 ---
 How to Cite:
 ```
-@misc{guevara2023large,
+@misc{guevara&chen2024large,
       title={Large Language Models to Identify Social Determinants of Health in Electronic Health Records}, 
       author={Marco Guevara and Shan Chen and Spencer Thomas and Tafadzwa L. Chaunzwa and Idalid Franco and Benjamin Kann and Shalini Moningi and Jack Qian and Madeleine Goldstein and Susan Harper and Hugo JWL Aerts and Guergana K. Savova and Raymond H. Mak and Danielle S. Bitterman},
-      year={2023},
-      eprint={2308.06354},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      year={2024},
+      eprint={npj Digit. Med. 7, 6}  
+      doi={https://doi.org/10.1038/s41746-023-00970-0}
 }
 ```
 ---
